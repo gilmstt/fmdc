@@ -1,0 +1,30 @@
+/**
+ * jQuery toast plugin created by Kamran Ahmed copyright MIT license 2014
+ */
+.jq-toast-wrap { display: block; position: fixed; width: 300px;  pointer-events: none !important; margin: 0; padding: 0; letter-spacing: normal; z-index: 9000 !important; 
+   box-shadow:rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px; border-radius:5px}
+
+.jq-toast-wrap * { margin: 0; padding: 0; }
+
+.jq-toast-wrap.bottom-left { bottom: 20px; left: 20px; }
+.jq-toast-wrap.bottom-right { bottom: 20px; right: 40px; }
+.jq-toast-wrap.top-left { top: 20px; left: 20px; }
+.jq-toast-wrap.top-right { top: 20px; right: 40px; }
+
+.jq-toast-single { border-left:5px solid;  display: block; width: 100%; padding: 10px; margin: 0px 0px 0px; border-radius: 4px; font-size: 12px; font-family: arial, sans-serif; line-height: 17px; position: relative;  pointer-events: all !important; background-color: #444444; color: white; }
+
+.jq-toast-single h2 { font-family: arial, sans-serif; font-size: 14px; margin: 0px 0px 7px; background: none; color: inherit; line-height: inherit; letter-spacing: normal; }
+.jq-toast-single a { color: #eee; text-decoration: none; font-weight: bold; border-bottom: 1px solid white; padding-bottom: 3px; font-size: 12px; }
+
+.jq-toast-single ul { margin: 0px 0px 0px 15px; background: none; padding:0px; }
+.jq-toast-single ul li { list-style-type: disc !important; line-height: 17px; background: none; margin: 0; padding: 0; letter-spacing: normal; }
+
+.close-jq-toast-single { position: absolute; top: 3px; right: 7px; font-size: 14px; cursor: pointer; }
+
+.jq-toast-loader { display: block; position: absolute; top: -2px; height: 5px; width: 0%; left: 0; border-radius: 5px; background: red; }
+.jq-toast-loaded { width: 100%; }
+.jq-has-icon { padding: 10px 10px 10px 50px; background-repeat: no-repeat; background-position: 10px; }
+.jq-icon-info { background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAG1SURBVHjarJY9LwRRFIafI8otFAqFQrESCoUgIVeCIFGQKAiJxl9QidpvEIWGTkFCIRoJhRsSCgkJBckWW25iC4VCcjQHs7v3zszGvslkPu/73HvmnDkjqgqAiBCU0xlgBRgGOuxqGbgCjvHyEBr26xsFOO0E9oBF0rUPbOClGgK0RWY9DzzmMAdYBx5tTIMaV+B0DjiPmH3Y1hW5v4yXo3iInBZs5j0RgxHb30XuV4B+vFRiIdpOMc+jTmA3HKJxisAz0J5iULUtaxJTes1V/QpWM8yxNM2zwrWfgyRgImPQETAFDFgdpGkyBChmDFoCpvHyBHxlPFsMAfKou9m3ngR80jpVQoDXFgLKIcBpCwEXIcCJ5XgepYXzC9hpBHipAFsZcT2z44MUyCFeSmkfu8tkHid0bx86gBIwCvTVPVMCBvFSjfcDp33ATaK5NJM5C3i5Te8HXl6sWi+aMH8Bxn7MY3WQhJTxMgts5KyPe7y85ms4jd2tYJ1tyML2AbwBBWDT9ljsH+pbJqr6d9KsnPbg9BynaslR05NV9Z+AP9A6Tt/tD6QG0NaSuvWyD/Ra6tboewDrNq26KatK4wAAAABJRU5ErkJggg=='); background-color: #fff; color: #000; border-color: #003bff; }
+.jq-icon-warning { background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAGiSURBVHja1JahS8NREMc/TwwLBqPBsKCgQTAYDINnNBiMBkXDBoIIDjacoMmggqCmBYtNg3+ATQ+DAw02BeuCYWHgwIGDsxzyY+6hP/0N9ODx43f3fnfvvt+7ez+nqnRTevhLosKECrNxvnExA1wDA8CY8zQThUiFOSADDAFriWagQgp4Aqq2poFh53lOKoOSQZMDVoEWsJMUsWkVXlXYjuiyKqgKk0kEOFXhwWCK6i9VuPmt84yddKqDbcQym/8RySr0ArfAnfPk7P3YzEXnqamwCawY4Y24JC8ZsUUA52mZbgnosz27QA1Yj1VFKvRbleSdpx4xNaJPC5oDCiqk42SwAzw6z1mbvmaOax8YeyrAOVD+VgArvazVe7u0bLXLBpCxbg8HiBB54jz3HRzdAZVPleKpAnvAgcEbzKAADAJbAejywELAtg80gx0e6dhCiHgVXqwvhkIDsb3DoxmUbZAdBk7YBOpWQR1HtRXFFXBscH+KPPPVVFX56IHQnnEV3lQoATgj5QFIAUcJXX6L1qSjToUysNylW/bC/fu/ivcBAL7HsLlYitkkAAAAAElFTkSuQmCC'); background-color: #ffff; color: #000; border-color: #ffc920; }
+.jq-icon-error { background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAGLSURBVHjarJaxSgNBEIa/E4srIlyRQjBFBAsfwAdQyCNY2AiWlpYWFkIewNLCQqx9AAULEQNGtLSwS2EgikIEhRMUfotb4ubcu92LDuyxx87Ot7O7M7NIwieCRLAruBGsCqYJEEnmU2y0JWgLhgJZ7VlwYGALZYBIEkTRPhADiWkNSiY65BW4A15Mvw7UkFaQhKCXW2FRewvUM5sjpswK+p4VfgHrEcwA88BpsG/GgzPPaq5y59MK8CCt4sGHwyOfPAIjwDv/L2OAJ49ycwJA3wbcepTj3P9sAODaBnQ9ynmDSQDgfgSIfgKlNF1U9KBrewDQqeDFnEe3E2VRPQa48ExasvoNj+7ReMbLtiAWDEoC51KwIdj2BNinslz0O5sKdirlGnc7LkzXgrog/YPxVFbMOOuBYK9g8rlg04wXZdW2t+AIao70ndrXtOAcHgS1oIomWHYYaFmX4SQ3NhAsVi2ZWw5Iz7E9TuNeQAkkyHgQwEDWHEV/aF4ZycSvihykKTg0rwmvYRvwPQBGsM/pnZKDywAAAABJRU5ErkJggg=='); background-color:#ffff; color: #000; border-color: #ff0000; }
+.jq-icon-success { background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEJSURBVHja7NUhS0NRFAfw3x0LhoVF4X6FBcOLLgiC2gwGu2XR6BcQo4IfYMGgIMKKaLMKvmgwGH3gB1gUZnlPRDfc9t5t/uO58DtwOefeMJlMpExL4iRvEJrEYm4FAxzgEcftBvE2LrBXlnrohgbxy294lXErIQ6jkBB/R7+VEN8oMq8hIf6y1JgugkOIuS4OsYVbnBWZcRN41eC0bFDlGTtF5q0uXj0Vmz9qPTzFXFYXrxrcTKmv4iHmduvg1RV1cIf1Kecf5ZWtLYN/TVH5SA2xP+cwzYX/GtOYO8FRU/jUPYi5Ac7RrovPXLSY28Y1OnXwmT9akblHHyOMcYX+ojiE/0//r3wOAFQvZ1zYpyLkAAAAAElFTkSuQmCC'); color: #000; background-color: #fff; border-color: #1bcc00; }
