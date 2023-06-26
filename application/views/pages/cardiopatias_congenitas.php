@@ -26,9 +26,9 @@
             <div class="section-title-2 text-left mb-20 wow fadeInUp2 animated" data-wow-delay=".1s" >
                <h6><span><i class=" "></i></span>Cardiopatias Congenitas</h6>
             </div>
-            <p class="mb-20">El <b>Centro Medico ABC</b> y la <b style="color:#cd0044">Fundación Mexicana del Corazón</b> nos unimos para apoyarte en el tratamiento de algunas cardiopatias congenitas y mejorar la calidad de vida</p>
+            <p class="mb-20">El <b>Centro Médico ABC</b> y la <b style="color:#cd0044">Fundación Mexicana del Corazón</b> nos unimos para apoyarte en el tratamiento de algunas cardiopatías congénitas y mejorar la calidad de vida de quienes la padecen.</p>
 
-            <h4>¿Qué cardiopatias congénitas se pueden tratar a través de este convenio?</h4>
+            <h4>¿Qué cardiopatías congénitas se pueden tratar a través de este convenio?</h4>
             <ul>
                <li>• Persistenia del conducto arterioso</li>
                <li>• Comunicación interauricular</li>
@@ -43,10 +43,10 @@
             </ul><br>
 
             <h4>¿Hay un límite de edad para ser atendido?</h4>
-            <p>Si, se atiende a menores de 17 años 10meses</p><br>
+            <p>Sí, se atiende a menores de 17 años 10meses</p><br>
 
             <h4>¿Se atienden a pacientes de todo México?</h4>
-            <p>Si, es un programa nacional</p><br>
+            <p>Sí, es un programa nacional</p><br>
 
             <h4>¿Qué tengo que hacer para solicitar ser atendido?</h4>
             <p>Envía un correo a <a href="">fundacionmexicanadelcorazon@gmail.com</a> explicando tu caso y todos los estudios relacionados a este, para que sean evaluados por especialistas.</p>

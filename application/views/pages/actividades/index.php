@@ -63,7 +63,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.3s'>
                         <div class="blog mb-60">
                             <div class="blog__thumb mb-40">
-                                <img src="<?=base_url('assets/img/blog/02.png')?>" alt="">
+                                <img src="<?=base_url('assets/img/events/DiaMundialdelCorazon2020.jpg')?>" alt="">
                             </div>
                             <div class="blog__content">
                                 <a class="tag" href="blog-details.html">Dia Mundial</a>
@@ -77,7 +77,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.5s'>
                         <div class="blog mb-60">
                             <div class="blog__thumb mb-40">
-                                <img src="<?=base_url('assets/img/blog/02.png')?>" alt="">
+                                <img src="<?=base_url('assets/img/events/DiaMundialdelCorazon2021.jpg')?>" alt="">
                             </div>
                             <div class="blog__content">
                                 <a class="tag" href="blog-details.html">Dia Mundial</a>
@@ -90,7 +90,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.7s'>
                         <div class="blog mb-60">
                             <div class="blog__thumb mb-40">
-                                <img src="<?=base_url('assets/img/blog/03.png')?>" alt="">
+                                <img src="<?=base_url('assets/img/events/DiaMundialdelCorazon2022.jpg')?>" alt="">
                             </div>
                             <div class="blog__content">
                                 <a class="tag" href="blog-details.html">Dia Mundial</a>
@@ -100,27 +100,14 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.3s'>
-                        <div class="blog mb-60">
-                            <div class="blog__thumb mb-40">
-                                <img src="<?=base_url('assets/img/blog/11.png')?>" alt="">
-                            </div>
-                            <div class="blog__content">
-                                <a class="tag" href="blog-details.html">Encuentros</a>
-                                <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2020')?>">ENCUENTROS CON PACIENTES 2020</a></h3>
-                                <p class="mb-25"></p>
-                               
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.5s'>
                         <div class="blog mb-60">
                             <div class="blog__thumb mb-40">
-                                <img src="<?=base_url('assets/img/blog/12.png')?>" alt="">
+                                <img src="<?=base_url('assets/img/events/eventos.jpg')?>" alt="">
                             </div>
                             <div class="blog__content">
                                 <a class="tag" href="blog-details.html">Encuentros</a>
-                                <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2021')?>">ENCUENTROS CON PACIENTES 2021</a></h3>
+                                <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2021')?>">ENCUENTROS CON PACIENTES 2023</a></h3>
                                 <p class="mb-25"></p>
                                 
                             </div>
@@ -129,7 +116,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.7s'>
                         <div class="blog mb-60">
                             <div class="blog__thumb mb-40">
-                                <img src="<?=base_url('assets/img/blog/13.png')?>" alt="">
+                                <img src="<?=base_url('assets/img/events/eventos.jpg')?>" alt="">
                             </div>
                             <div class="blog__content">
                                 <a class="tag" href="<?=base_url('view/actividades-encuentros_2022')?>">Encuentros</a>
@@ -139,7 +126,32 @@
                             </div>
                         </div>
                     </div>
-                  
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.5s'>
+                        <div class="blog mb-60">
+                            <div class="blog__thumb mb-40">
+                                <img src="<?=base_url('assets/img/events/eventos.jpg')?>" alt="">
+                            </div>
+                            <div class="blog__content">
+                                <a class="tag" href="blog-details.html">Encuentros</a>
+                                <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2021')?>">ENCUENTROS CON PACIENTES 2021</a></h3>
+                                <p class="mb-25"></p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.3s'>
+                        <div class="blog mb-60">
+                            <div class="blog__thumb mb-40">
+                                <img src="<?=base_url('assets/img/events/eventos.jpg')?>" alt="">
+                            </div>
+                            <div class="blog__content">
+                                <a class="tag" href="blog-details.html">Encuentros</a>
+                                <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2020')?>">ENCUENTROS CON PACIENTES 2020</a></h3>
+                                <p class="mb-25"></p>
+                               
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="row " style="text-align: justify;">
                     <p>
