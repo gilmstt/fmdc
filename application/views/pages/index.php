@@ -2,20 +2,20 @@
    <!--slider-area start-->
    <div class="slider-area pos-rel">
       <div class="slider-active">
-         <div class="single-slider slider-height pos-rel d-flex align-items-center" style="background-image: url(assets/img/eventos.png);">
+         <div class="single-slider slider-height pos-rel d-flex align-items-center" style="background-image: url(assets/img/testimonial/testimonio.jpg);">
             <div class="container">
                <div class="row">
                   <div class="col-xl-8">
                      <div class="slider__content text-left">
                         <h5 class="sub-title mb-25 wow fadeInUp2 animated" data-wow-delay=".1s">
                            <span class="pr-10"><i class="fas fa-heart"></i></span>
-                           Todos los eventos
+                           Testimonios
                         </h5>
                         <h1 class="main-title mb-35 wow fadeInUp2 animated" data-wow-delay=".1s">
-                           Nuestras actividades
+                           Voces del corazón
                         </h1>
                         <ul class="btn-list wow fadeInUp2 animated" data-wow-delay=".3s">
-                           <li><a class="theme_btn theme_btn_bg" href="<?= base_url("Dashboard/view/eventos.php"); ?>">Ver <span><i class="fas fa-heart"></i></span></a>
+                           <li><a class="theme_btn theme_btn_bg" href="<?= base_url("Dashboard/testimonios/index"); ?>">Ver <span><i class="fas fa-heart"></i></span></a>
                            </li>
                         </ul>
                      </div>
@@ -48,7 +48,7 @@
                   <div class="col-xl-8">
                      <div class="slider__content text-left">
                         <ul class="btn-list wow fadeInUp2 animated" data-wow-delay=".3s">
-                           <li><a class="theme_btn theme_btn_bg" href="<?= base_url("Dashboard/post/5") ?>">Eventos 2023 <span><i class="fas fa-heart"></i></span></a>
+                           <li><a class="theme_btn theme_btn_bg" href="<?=base_url('Dashboard/view/actividades-encuentros_2023')?>">Eventos 2023 <span><i class="fas fa-heart"></i></span></a>
                            </li>
 
                         </ul>
@@ -305,22 +305,43 @@
             </div>
          </div>
          <div class="row testimonial-active-04">
+            <div class="col-xl-6 item-box">
+               <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
+                  <div class="author_box d-flex align-items-center mb-25">
+                     <div class="author_box__content">
+                        <h4 class="semi-02-title">Que hace la fundación méxicana del corazón?</h4>
+                     </div>
+                  </div>
+                  <!-- Foto de preview del video -->
+                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/aliados/abc.png); justify-content:center; align-items:center;">
+                     <div class="video-area pos-abl">
+                        <!-- Link del video -->
+                        <a href="https://www.youtube.com/watch?v=-EgzHuGRPK8&t=2s" class="popup-video"><i class="fas fa-play"></i></a>
+                     </div>
+                  </div>
+                  <p class="semi-title mb-10"></p>
+                  <div class="review-icon">
+                     <a href="#"><i class="fas fa-star"></i></a>
+                     <a href="#"><i class="fas fa-star"></i></a>
+                     <a href="#"><i class="fas fa-star"></i></a>
+                     <a href="#"><i class="fas fa-star"></i></a>
+                     <a href="#"><i class="fas fa-star"></i></a>
+                  </div>
+               </div>
+            </div>
             <!-- Omron video -->
             <div class="col-xl-6 item-box">
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
-                     <div class="author_box__img mr-15">
-                        <img src="assets/img/testimonial/02.png" alt="">
-                     </div>
                      <div class="author_box__content">
                         <h4 class="semi-02-title">Omron</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->
-                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/events/drjesus.png); justify-content:center; align-items:center;">
+                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/aliados/omron.png); justify-content:center; align-items:center;">
                      <div class="video-area pos-abl">
                         <!-- Link del video -->
-                        <a href="https://fundacionmexicanadelcorazon.org/wp-content/uploads/2022/05/ANUNCIO-FIRMA-2-MASTER-LARGO-H.264-for-Video-Podcasting.m4v" class="popup-video"><i class="fas fa-play"></i></a>
+                        <a href="https://www.youtube.com/watch?v=l4BpY4oesso" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
                   <p class="semi-title mb-10"></p>
@@ -337,18 +358,15 @@
             <div class="col-xl-6 item-box">
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
-                     <div class="author_box__img mr-15">
-                        <img src="assets/img/testimonial/02.png" alt="">
-                     </div>
                      <div class="author_box__content">
                         <h4 class="semi-02-title">ABC</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->
-                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/events/drjesus.png); justify-content:center; align-items:center;">
+                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/aliados/abc.png); justify-content:center; align-items:center;">
                      <div class="video-area pos-abl">
                         <!-- Link del video -->
-                        <a href="https://fundacionmexicanadelcorazon.org/wp-content/uploads/2022/05/ANUNCIO-FIRMA-2-MASTER-LARGO-H.264-for-Video-Podcasting.m4v" class="popup-video"><i class="fas fa-play"></i></a>
+                        <a href="https://www.youtube.com/watch?v=XoEiS0errhI" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
                   <p class="semi-title mb-10"></p>
@@ -381,7 +399,8 @@
          <div class="row">
             <div class="col-xl-6 offset-xl-3">
                <div class="section-title text-center mb-35">
-                  <h6><span><i class="fas fa-heart"></i></span> Testimonios</h6>
+                  <h6><span><i class="fas fa-heart"></i></span> Voces del corazón </h6><br>
+                  <a class="theme_btn theme_btn_bg" href="<?= base_url('Dashboard/testimonios/index') ?>">Ver más<span><i class="fas fa-heart"></i></span></a>
                </div>
             </div>
          </div>
@@ -390,18 +409,15 @@
             <div class="col-xl-4 item-box">
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
-                     <div class="author_box__img mr-15">
-                        <img src="assets/img/testimonial/1.jpg" alt="">
-                     </div>
                      <div class="author_box__content">
                         <h4 class="semi-02-title">Dra. Balderrama</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->
-                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/events/drjesus.png); justify-content:center; align-items:center;">
+                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/testimonial/370.png); justify-content:center; align-items:center;">
                      <div class="video-area pos-abl">
                         <!-- Link del video -->
-                        <a href="https://fundacionmexicanadelcorazon.org/wp-content/uploads/2022/05/ANUNCIO-FIRMA-2-MASTER-LARGO-H.264-for-Video-Podcasting.m4v" class="popup-video"><i class="fas fa-play"></i></a>
+                        <a href="<?= base_url('assets/img/testimonial/marcapasos.mp4') ?>" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
                   <p class="semi-title mb-10"></p>
@@ -422,18 +438,15 @@
             <div class="col-xl-4 item-box">
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
-                     <div class="author_box__img mr-15">
-                        <img src="assets/img/testimonial/02.png" alt="">
-                     </div>
                      <div class="author_box__content">
                         <h4 class="semi-02-title">Sra. María</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->
-                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/events/drjesus.png); justify-content:center; align-items:center;">
+                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/testimonial/maria.png); justify-content:center; align-items:center;">
                      <div class="video-area pos-abl">
                         <!-- Link del video -->
-                        <a href="https://fundacionmexicanadelcorazon.org/wp-content/uploads/2022/05/ANUNCIO-FIRMA-2-MASTER-LARGO-H.264-for-Video-Podcasting.m4v" class="popup-video"><i class="fas fa-play"></i></a>
+                        <a href="https://www.youtube.com/watch?v=pjVrE726Dj8" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
                   <p class="semi-title mb-10"></p>
@@ -450,18 +463,15 @@
             <div class="col-xl-4 item-box">
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
-                     <div class="author_box__img mr-15">
-                        <img src="assets/img/testimonial/02.png" alt="">
-                     </div>
                      <div class="author_box__content">
                         <h4 class="semi-02-title">Sr. Hector</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->
-                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/events/drjesus.png); justify-content:center; align-items:center;">
+                  <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/testimonial/hector.png); justify-content:center; align-items:center;">
                      <div class="video-area pos-abl">
                         <!-- Link del video -->
-                        <a href="https://fundacionmexicanadelcorazon.org/wp-content/uploads/2022/05/ANUNCIO-FIRMA-2-MASTER-LARGO-H.264-for-Video-Podcasting.m4v" class="popup-video"><i class="fas fa-play"></i></a>
+                        <a href="https://www.youtube.com/watch?v=QtzFfNM7Zcc" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
                   <p class="semi-title mb-10"></p>
@@ -479,506 +489,7 @@
    </section>
 
    <!--testimonial-area end-->
-   <!--events-area end-->
-   <!--about-us-area start-->
-   <!-- <section class="about-area grey-bg2 pos-rel pb-100">
-      <div class="right-shape">
-         <img src="assets/img/shape/01.png" alt="">
-      </div>
-      <div class="container">
-         <div class="row align-items-center">
-            <div class="col-xl-6 col-lg-6 col-md-12">
-               <div class="about-img mb-60 pos-rel">
-                  <div class="about-img__thumb pr-45 wow fadeInUp2 animated" data-wow-delay='.1s'>
-                     <img src="assets/img/about/01.jpg" alt="">
-                  </div>
-                  <div class="experience-box heding-bg wow fadeInUp2 animated" data-wow-delay='.3s'>
-                     <h1>25</h1>
-                     <h4 class="semi-02-title">Years
-                        Experience</h4>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-12">
-               <div class="about-wrapper mb-30">
-                  <div class="section-title text-left mb-20 wow fadeInUp2 animated" data-wow-delay='.1s'>
-                     <h6><span><i class="fas fa-heart"></i></span> About EnaCare</h6>
-                     <h2>Challenge 264 Million
-                        Children Go to Schools</h2>
-                  </div>
-                  <p>Sed perspiciatis unde omnis iste natus error sit voluptatem accntium doloremque laudantium totam
-                     rem aperiam eaque ipsa quailinve ntore veritatis et quasi architecto beatae vitae dicta sunt</p>
-                  <ul class="about_list mt-30 mb-20 wow fadeInUp2 animated" data-wow-delay='.2s'>
-                     <li>Quis autem vel eum iure reprehenderit qui in ea voluptate esse
-                        quam nihil molestiae consequatur vel illum dolorem</li>
-                     <li>Again is there anyone who loves or pursues or desires to obtain pain of itself, because it is
-                        pain because occasionally</li>
-                  </ul>
-                  <a class="theme_btn theme_btn_bg" href="about.html">Learn more <span><i
-                           class="fas fa-heart"></i></span></a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section> -->
-   <!--about-us-area end-->
-   <!--cta-area start-->
-   <!--<section class="cta-area theme-bg2 pb-50 pt-50">
-      <div class="container">
-         <div class="row align-items-center">
-            <div class="col-xl-8 col-lg-8 col-md-8">
-               <div class="cta-wrapper pl-100">
-                  <h2>Únete a nuestro equipo de <a href="volunteer.html">voluntarios</a></h2>
-               </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-4">
-               <div class="cta-btn">
-                  <a class="theme_btn theme_btn_bg" href="#">Ver más <span><i class="fas fa-heart"></i></span></a>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>-->
-   <!--cta-area end-->
-   <!--cases-area start-->
-   <!-- <section class="cases-area pt-130 pb-100">
-      <div class="container">
-         <div class="row">
-            <div class="col-xl-10 offset-xl-1">
-               <div class="section-title text-center mb-75 pl-50 pr-50 wow fadeInUp2 animated" data-wow-delay='.1s'>
-                  <h6><span><i class="fas fa-heart"></i></span> Popular Cases</h6>
-                  <h2>Donate Our Popular Charity Causes
-                     Around The World</h2>
-               </div>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-6">
-               <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.3s'>
-                  <div class="cases__box pos-rel">
-                     <div class="cases__box--img">
-                        <img src="assets/img/cases/01.jpg" alt="">
-                     </div>
-                     <ul class="cases__tag white-bg">
-                        <li>
-                           <div class="cases--author d-flex align-items-center">
-                              <img src="assets/img/cases/04.png" alt="">
-                              <h4 class="semi-02-title ml-15">Somalia</h4>
-                           </div>
-                        </li>
-                        <li>
-                           <a class="theme_btn theme_btn_bg d-btn" href="donation.html">Donate</a>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="cases__content">
-                     <div class="cases-progress mb-25">
-                        <p class="funding">Raised <span>$8420</span></p>
-                        <div class="progress">
-                           <div class="progress-bar wow fadeInLeft animated" data-wow-delay="0.3s" role="progressbar"
-                              style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                              <h5>95%</h5>
-                           </div>
-                        </div>
-                     </div>
-                     <h3><a href="donation.html">Donate Your Mind For The
-                           Homeless Children</a></h3>
-                     <p>Sed perspiciat unde omnis iste natus
-                        error voluptatem accntiume</p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
-               <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.5s'>
-                  <div class="cases__box pos-rel">
-                     <div class="cases__box--img">
-                        <img src="assets/img/cases/02.jpg" alt="">
-                     </div>
-                     <ul class="cases__tag white-bg">
-                        <li>
-                           <div class="cases--author d-flex align-items-center">
-                              <img src="assets/img/cases/04.png" alt="">
-                              <h4 class="semi-02-title ml-15">Somalia</h4>
-                           </div>
-                        </li>
-                        <li>
-                           <a class="theme_btn theme_btn_bg d-btn" href="donation.html">Donate</a>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="cases__content">
-                     <div class="cases-progress mb-25">
-                        <p class="funding">Raised <span>$8420</span></p>
-                        <div class="progress">
-                           <div class="progress-bar wow fadeInLeft animated" data-wow-delay="0.5s" role="progressbar"
-                              style="width: 55%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                              <h5>78%</h5>
-                           </div>
-                        </div>
-                     </div>
-                     <h3><a href="donation.html">Give Your Assets For The
-                           Homeless Children</a></h3>
-                     <p>Sed perspiciat unde omnis iste natus
-                        error voluptatem accntiume</p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
-               <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.7s'>
-                  <div class="cases__box pos-rel">
-                     <div class="cases__box--img">
-                        <img src="assets/img/cases/03.jpg" alt="">
-                     </div>
-                     <ul class="cases__tag white-bg">
-                        <li>
-                           <div class="cases--author d-flex align-items-center">
-                              <img src="assets/img/cases/04.png" alt="">
-                              <h4 class="semi-02-title ml-15">Somalia</h4>
-                           </div>
-                        </li>
-                        <li>
-                           <a class="theme_btn theme_btn_bg d-btn" href="donation.html">Donate</a>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="cases__content">
-                     <div class="cases-progress mb-25">
-                        <p class="funding">Raised <span>$8420</span></p>
-                        <div class="progress">
-                           <div class="progress-bar wow fadeInLeft animated" data-wow-delay="0.7s" role="progressbar"
-                              style="width: 85%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                              <h5>87%</h5>
-                           </div>
-                        </div>
-                     </div>
-                     <h3><a href="donation.html">Spent Your Money For The
-                           Homeless Children</a></h3>
-                     <p>Sed perspiciat unde omnis iste natus
-                        error voluptatem accntiume</p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section> -->
-   <!--cases-area end-->
-
-   <!--team-area start-->
-   <!-- <section class="team-area pt-125 pb-100 pos-rel" style="background-image: url(assets/img/bg/01.jpg);">
-      <div class="container">
-         <div class="row">
-            <div class="col-xl-8 offset-xl-2">
-               <div class="section-title white-title text-center mb-75 pl-50 pr-50 wow fadeInUp2 animated"
-                  data-wow-delay='.1s'>
-                  <h6><span><i class="fas fa-heart"></i></span> Team Member</h6>
-                  <h2>We Have A Big Team of
-                     Expert Volunteer</h2>
-               </div>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-xl-6 col-lg-6 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay='.3s'>
-               <div class="team white-bg clearfix fix pos-rel">
-                  <div class="team__thumb f-left mr-40">
-                     <img src="assets/img/team/01.png" alt="">
-                  </div>
-                  <div class="team__content pos-rel mt-25">
-                     <h3><a href="team-details.html">David Salika Warner</a></h3>
-                     <p>Web Developer</p>
-                     <div class="team__content--social">
-                        <a href="#">
-                           <i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-youtube"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-linkedin"></i>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay='.5s'>
-               <div class="team white-bg clearfix fix pos-rel">
-                  <div class="team__thumb f-left mr-40">
-                     <img src="assets/img/team/02.png" alt="">
-                  </div>
-                  <div class="team__content pos-rel mt-25">
-                     <h3><a href="team-details.html">Michel Fokluz Huta</a></h3>
-                     <p>Ui/Ux Designer</p>
-                     <div class="team__content--social">
-                        <a href="#">
-                           <i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-youtube"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-linkedin"></i>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay='.5s'>
-               <div class="team white-bg clearfix fix pos-rel">
-                  <div class="team__thumb f-left mr-40">
-                     <img src="assets/img/team/03.png" alt="">
-                  </div>
-                  <div class="team__content pos-rel mt-25">
-                     <h3><a href="team-details.html">Nicolas Almeida Lima</a></h3>
-                     <p>PHP Developer</p>
-                     <div class="team__content--social">
-                        <a href="#">
-                           <i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-youtube"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-linkedin"></i>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay='.7s'>
-               <div class="team white-bg clearfix fix pos-rel">
-                  <div class="team__thumb f-left mr-40">
-                     <img src="assets/img/team/04.png" alt="">
-                  </div>
-                  <div class="team__content pos-rel mt-25">
-                     <h3><a href="team-details.html">Ryan Goncalves Alves</a></h3>
-                     <p>Web Designer</p>
-                     <div class="team__content--social">
-                        <a href="#">
-                           <i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-youtube"></i>
-                        </a>
-                        <a href="#">
-                           <i class="fab fa-linkedin"></i>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section> -->
-   <!--team-area end-->
-   <!--gallery-area start-->
-   <!-- <section class="gallery-area pt-130 pb-100">
-      <div class="container">
-         <div class="row">
-            <div class="col-xl-8 offset-xl-2">
-               <div class="section-title text-center mb-85 pl-50 pr-50 wow fadeInUp2 animated" data-wow-delay='.1s'>
-                  <h6><span><i class="fas fa-heart"></i></span> Photo Gallery</h6>
-                  <h2>Our Global Awards Winning
-                     Photo Gallery</h2>
-               </div>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-xl-6 col-lg-6 col-md-12">
-               <div class="row">
-                  <div class="col-xl-6 col-lg-6 col-md-6">
-                     <div class="gallery pos-rel text-center wow fadeInUp2 animated" data-wow-delay='.3s'>
-                        <div class="gallery__thumb pos-rel mb-30">
-                           <img src="assets/img/gallery/01.jpg" alt="">
-                        </div>
-                        <div class="gallery__content">
-                           <a class="popup-image" href="assets/img/gallery/01.jpg"><i class="far fa-plus"></i></a>
-                           <h3><a href="gallery-2.html">Hungry Children</a></h3>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-6 col-lg-6 col-md-6">
-                     <div class="gallery pos-rel text-center wow fadeInUp2 animated" data-wow-delay='.3s'>
-                        <div class="gallery__thumb pos-rel mb-30">
-                           <img src="assets/img/gallery/02.jpg" alt="">
-                        </div>
-                        <div class="gallery__content">
-                           <a class="popup-image" href="assets/img/gallery/01.jpg"><i class="far fa-plus"></i></a>
-                           <h3><a href="gallery-2.html">Hungry Children</a></h3>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-6 col-lg-6 col-md-6">
-                     <div class="gallery pos-rel text-center wow fadeInUp2 animated" data-wow-delay='.3s'>
-                        <div class="gallery__thumb pos-rel mb-30">
-                           <img src="assets/img/gallery/03.jpg" alt="">
-                        </div>
-                        <div class="gallery__content">
-                           <a class="popup-image" href="assets/img/gallery/01.jpg"><i class="far fa-plus"></i></a>
-                           <h3><a href="gallery-2.html">Hungry Children</a></h3>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-6 col-lg-6 col-md-6">
-                     <div class="gallery pos-rel text-center wow fadeInUp2 animated" data-wow-delay='.3s'>
-                        <div class="gallery__thumb pos-rel mb-30">
-                           <img src="assets/img/gallery/04.jpg" alt="">
-                        </div>
-                        <div class="gallery__content">
-                           <a class="popup-image" href="assets/img/gallery/01.jpg"><i class="far fa-plus"></i></a>
-                           <h3><a href="gallery-2.html">Hungry Children</a></h3>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-12">
-               <div class="gallery pos-rel text-center wow fadeInUp2 animated" data-wow-delay='.3s'>
-                  <div class="gallery__thumb pos-rel mb-30">
-                     <img src="assets/img/gallery/03.jpg" alt="">
-                  </div>
-                  <div class="gallery__content">
-                     <a class="popup-image" href="assets/img/gallery/01.jpg"><i class="far fa-plus"></i></a>
-                     <h3><a href="gallery-2.html">Hungry Children</a></h3>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section> -->
-   <!--gallery-area end-->
-
-   <!--testimonial-area start-->
-   <!-- <section class="testimonial-area grey-bg2 pos-rel pt-130 pb-130">
-      <div class="container">
-         <div class="row">
-            <div class="col-xl-4">
-               <div class="testimonial-text-wrapper wow fadeInUp2 animated mb-30" data-wow-delay='.1s'>
-                  <div class="section-title text-left mb-35">
-                     <h6><span><i class="fas fa-heart"></i></span> Clients Feedback</h6>
-                     <h2>What Our Clients
-                        Say About Us</h2>
-                  </div>
-                  <p>Sed perspiciatis unde omnis iste natus error sit
-                     atem accntium doloremque laudantium taperem
-                     eaque ipsa quailinve ntore veritatis</p>
-                  <a class="theme_btn theme_btn_bg" href="#">View More <span><i class="fas fa-heart"></i></span></a>
-               </div>
-            </div>
-            <div class="col-xl-8 testimonial-wrapper">
-               <div class="row testimonial-active">
-                  <div class="col-xl-6">
-                     <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.3s'>
-                        <div class="author_box d-flex align-items-center mb-25">
-                           <div class="author_box__img mr-15">
-                              <img src="assets/img/testimonial/01.png" alt="">
-                           </div>
-                           <div class="author_box__content">
-                              <h4 class="semi-02-title">David Warner</h4>
-                              <p>Senior Web Developer</p>
-                           </div>
-                        </div>
-                        <p class="semi-title mb-10">But I must explain to you how all this mistaken idea of denouncing
-                           pleasure and praising pain was born and I will give you a complete account of the system and
-                           expound the actual teings of the great explorer of the truth the master-builder of human </p>
-                        <div class="review-icon">
-                           <span>Most Trusted</span>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-6">
-                     <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
-                        <div class="author_box d-flex align-items-center mb-25">
-                           <div class="author_box__img mr-15">
-                              <img src="assets/img/testimonial/02.png" alt="">
-                           </div>
-                           <div class="author_box__content">
-                              <h4 class="semi-02-title">David Warner</h4>
-                              <p>Senior Web Developer</p>
-                           </div>
-                        </div>
-                        <p class="semi-title mb-10">But I must explain to you how all this mistaken idea of denouncing
-                           pleasure and praising pain was born and I will give you a complete account of the system and
-                           expound the actual teings of the great explorer of the truth the master-builder of human </p>
-                        <div class="review-icon">
-                           <span>Most Trusted</span>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-6">
-                     <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.3s'>
-                        <div class="author_box d-flex align-items-center mb-25">
-                           <div class="author_box__img mr-15">
-                              <img src="assets/img/testimonial/01.png" alt="">
-                           </div>
-                           <div class="author_box__content">
-                              <h4 class="semi-02-title">David Warner</h4>
-                              <p>Senior Web Developer</p>
-                           </div>
-                        </div>
-                        <p class="semi-title mb-10">But I must explain to you how all this mistaken idea of denouncing
-                           pleasure and praising pain was born and I will give you a complete account of the system and
-                           expound the actual teings of the great explorer of the truth the master-builder of human </p>
-                        <div class="review-icon">
-                           <span>Most Trusted</span>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-6">
-                     <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
-                        <div class="author_box d-flex align-items-center mb-25">
-                           <div class="author_box__img mr-15">
-                              <img src="assets/img/testimonial/02.png" alt="">
-                           </div>
-                           <div class="author_box__content">
-                              <h4 class="semi-02-title">David Warner</h4>
-                              <p>Senior Web Developer</p>
-                           </div>
-                        </div>
-                        <p class="semi-title mb-10">But I must explain to you how all this mistaken idea of denouncing
-                           pleasure and praising pain was born and I will give you a complete account of the system and
-                           expound the actual teings of the great explorer of the truth the master-builder of human </p>
-                        <div class="review-icon">
-                           <span>Most Trusted</span>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                           <a href="#"><i class="fas fa-star"></i></a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section> -->
-   <!--testimonial-area end-->
+   
    <!--donation-area start-->
    <section class="donation-area pos-rel pt-125 pb-90" style="background-image: url(assets/img/events/evento2.jpg);">
       <div class="container">

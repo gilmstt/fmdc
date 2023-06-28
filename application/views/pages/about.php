@@ -1,7 +1,7 @@
 <main>
 
     <!--page-title-area start-->
-    <section class="page-title-area" style="background-image: url(<?= base_url("assets/img/slider/slider.jpg") ?>);">
+    <section class="page-title-area" style="background-image: url(<?= base_url("assets/img/bg/nosotros.png") ?>);">
         <div class="container">
             <div class="row">
                 <div class="col-xl-4 offset-xl-4">
@@ -296,7 +296,7 @@
                                 </div>
                             </li>
                             <li>
-                                <a class="theme_btn theme_btn_bg" href="donation.html">Donar ahora<span><i class="fas fa-heart"></i></span></a>
+                                <a class="theme_btn theme_btn_bg" href="<?= base_url('Dashboard/donation') ?>">Donar ahora<span><i class="fas fa-heart"></i></span></a>
                             </li>
                         </ul>
                     </div>

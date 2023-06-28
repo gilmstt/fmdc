@@ -1,7 +1,7 @@
 <main>
 
 <!--page-title-area start-->
-<section class="page-title-area" style="background-image: url(<?= base_url("assets/img/bg/08.jpg")?>);">
+<section class="page-title-area" style="background-image: url(<?= base_url("assets/img/bg/portada.jpg")?>);">
     <div class="container">
         <div class="row">
             <div class="col-xl-8 offset-xl-2">
@@ -55,7 +55,17 @@
                 <div class="donar-information donation-form grey-bg2 mb-30 pr-50 pl-50">
                     <div class="section-title text-left mb-50 wow fadeInUp2 animated" data-wow-delay='.1s'>
                         <h6><span><i class="fas fa-heart"></i></span> Enviar mensaje</h6>
-                        <h2>Pepe te quiere escuchar</h2>
+                        <table>
+                            <tr>
+                                <th>
+                                    <h2>Pepe te quiere escuchar</h2>
+                                </th>
+                                <th>
+                                    <img src="<?=base_url("assets/img/contacto/pepe.png")?>" width="100" height="120">
+                                </th>
+                            </tr>
+                        
+                        </table>
                     </div>
                     <div class="main-contact-area">
                         <form action="#">
@@ -96,87 +106,5 @@
     </div>
 </section>
 <!--full-map-area start-->
-<!--brand-area start-->
-<section class="brand-area grey-bg2 pt-70">
-    <div class="container custom-container-03">
-        <div class="row brand-active pb-60">
-            <div class="col-xl-2">
-                <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.1s'>
-                    <div class="brand-img">
-                        <a href="#"><img src="assets/img/brand/01.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2">
-                <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.3s'>
-                    <div class="brand-img">
-                        <a href="#"><img src="assets/img/brand/02.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2">
-                <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.5s'>
-                    <div class="brand-img">
-                        <a href="#"><img src="assets/img/brand/03.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2">
-                <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.7s'>
-                    <div class="brand-img">
-                        <a href="#"><img src="assets/img/brand/04.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2">
-                <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.9s'>
-                    <div class="brand-img">
-                        <a href="#"><img src="assets/img/brand/05.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2">
-                <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.3s'>
-                    <div class="brand-img">
-                        <a href="#"><img src="assets/img/brand/01.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2">
-                <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.5s'>
-                    <div class="brand-img">
-                        <a href="#"><img src="assets/img/brand/02.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-2">
-                <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.7s'>
-                    <div class="brand-img">
-                        <a href="#"><img src="assets/img/brand/03.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--brand-area end-->
-<!--cta-area start-->
-<section class="cta-area theme-bg2 pt-50 pb-50">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-xl-8 col-lg-8 col-md-8">
-                <div class="cta-wrapper pl-100">
-                    <h2>Join With Our <a href="volunteer.html">Volunteer</a> Team</h2>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-4">
-                <div class="cta-btn">
-                    <a class="theme_btn theme_btn_bg" href="about.html">Learn more <span><i
-                                class="fas fa-heart"></i></span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--cta-area end-->
+
 </main>

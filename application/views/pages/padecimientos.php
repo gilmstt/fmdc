@@ -34,7 +34,7 @@
                     <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.3s'>
                         <div class="cases__box pos-rel">
                             <div class="cases__box--img">
-                            <img src="<?=base_url("assets/img/padecimientos/infarto.png")?>">
+                            <img src="<?=base_url("assets/img/padecimientos/valvulopatia.png")?>">
                             </div>
                             <ul class="cases__tag white-bg">
                                 <li>

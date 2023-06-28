@@ -5,10 +5,6 @@
                         <div class="page-title-wrapper text-center pt-125">
                             <div class="page-title-box">
                                 <h2 class="page-title">Actividades</h2>
-                                <ul class="breadcrumb-list">
-                                    <li><a href="index.html">Home <i class="far fa-chevron-right"></i></a></li>
-                                    <li><a href="#">Blog Grid</a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>

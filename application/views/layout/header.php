@@ -138,7 +138,7 @@
                                     </li>
                                     <li><a href="<?= base_url('Dashboard/view/padecimientos') ?>">Padecimientos</a>
                                     </li>
-                                    <li><a href="<?= base_url('Dashboard/contact') ?>">Tratamientos <i class="far fa-chevron-down"></i></a>
+                                    <li><a>Tratamientos <i class="far fa-chevron-down"></i></a>
                                         <ul class="submenu">
                                             <li>
                                                 <div class="dropdown dropright">
@@ -204,6 +204,11 @@
             </div>
         </div>
         </div>
+        <div class="social2">
+         <a href="<?= ('https://www.facebook.com/fundacionmexicanadelcorazon/') ?>"target="_blank"><img src="<?=base_url("assets/img/social/facebook.png")?>"alt="facebook"> </a>
+         <a href="<?= ('https://www.instagram.com/fundacioncoramexico/') ?>" target="_blank"><img src="<?=base_url("assets/img/social/instagram.png")?>" alt="instagram"></a>
+      </div>
+    
     </header>
     <!-- header-area end -->
 
