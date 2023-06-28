@@ -46,6 +46,25 @@ body {
   font-style: normal;
   color: #777777;
 }
+.social2{
+  /*las imágenes usadas tienen width de 48px*/
+  width:10px;
+  position:fixed;
+  top:300px;
+  left:10px;
+}
+
+/* Extra centrado vertical*/
+
+.social2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 1;
+  height: 100px;
+  margin-bottom: 10px;
+  background-size: cover;
+}
 
 .f-left {
   float: left;
