@@ -161,43 +161,6 @@
         </div>
         </div>
     </section>
-    <!--about-us-area end-->
-    <!--counter-area start-->
-    <section class="counter-area theme-bg pt-130 pb-60">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
-                    <div class="counetrs mb-30 text-center wow fadeInUp2 animated" data-wow-delay='.1s'>
-                        <div class="counetrs__icon mb-20"><i class="flaticon-social-care"></i></div>
-                        <h1><span class="counter">85642</span></h1>
-                        <p>Volunteer</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
-                    <div class="counetrs mb-30 text-center wow fadeInUp2 animated" data-wow-delay='.3s'>
-                        <div class="counetrs__icon mb-20"><i class="flaticon-donation"></i></div>
-                        <h1><span class="counter">74523</span></h1>
-                        <p>Global Partner</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
-                    <div class="counetrs mb-30 text-center wow fadeInUp2 animated" data-wow-delay='.5s'>
-                        <div class="counetrs__icon mb-20"><i class="flaticon-charity"></i></div>
-                        <h1><span class="counter">65634</span></h1>
-                        <p>Save Children</p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6">
-                    <div class="counetrs mb-30 text-center wow fadeInUp2 animated" data-wow-delay='.7s'>
-                        <div class="counetrs__icon mb-20"><i class="flaticon-community"></i></div>
-                        <h1><span class="counter">98563</span></h1>
-                        <p>Refuge Shelter</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--counter-area end-->
     <!--what-we-area start-->
     <section class="what-we-area grey-bg2 pos-rel pt-125 pb-95">
         <div class="right-help" style="background-image: url(assets/img/about/06.jpg);">

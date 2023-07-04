@@ -65,6 +65,14 @@ body {
   margin-bottom: 10px;
   background-size: cover;
 }
+.svgicon{
+  top: -36px!important;
+  position: relative!important;
+}
+.svgicon2{
+  top: 80px!important;
+  position: relative!important;
+}
 
 .f-left {
   float: left;

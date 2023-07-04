@@ -218,79 +218,112 @@
             <a href="javascript:void(0);"><i class="fas fa-times"></i></a>
         </div>
 
-        <!-- offset-sidebar start -->
-        <div class="offset-sidebar">
-            <div class="offset-widget offset-logo mb-30">
-                <a href="index.html">
-                    <img src="assets/img/logo/header_logo_one.png" alt="logo">
-                </a>
-            </div>
-            <div class="offset-widget mb-40">
-                <div class="info-widget">
-                    <h4 class="offset-title mb-20">About Us</h4>
-                    <p class="mb-30">
-                        But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain
-                        was born and will give you a complete account of the system and expound the actual teachings of
-                        the great explore
-                    </p>
-                    <a class="theme_btn theme_btn_bg" href="contact.html">Contact Us</a>
-                </div>
-            </div>
-            <div class="offset-widget mb-30 pr-10">
-                <div class="info-widget info-widget2">
-                    <h4 class="offset-title mb-20">Contact Info</h4>
-                    <p> <i class="fal fa-address-book"></i> 23/A, Miranda City Likaoli Prikano, Dope</p>
-                    <p> <i class="fal fa-phone"></i> +0989 7876 9865 9 </p>
-                    <p> <i class="fal fa-envelope-open"></i> info@example.com </p>
-                </div>
-            </div>
-        </div>
-        <!-- offset-sidebar end -->
-
+        
         <!-- side-mobile-menu start -->
         <nav class="side-mobile-menu">
             <ul id="mobile-menu-active">
-                <li class="has-dropdown">
-                    <a href="index.html">Home</a>
-                    <ul class="sub-menu">
-                        <li><a href="index.html">Home Style 1</a></li>
-                        <li><a href="index-2.html">Home Style 2</a></li>
-                        <li><a href="index-3.html">Home Style 3</a></li>
-                    </ul>
+                <li><a class="active" href="<?= base_url() ?>">Inicio <i></i></a>
                 </li>
-                <li><a href="about.html">About Us</a></li>
-                <li class="has-dropdown">
-                    <a href="#">Case</a>
-                    <ul class="sub-menu">
-                        <li><a href="case.html">Case Study One</a></li>
-                        <li><a href="case-2.html">Case Study Two</a></li>
-                        <li><a href="case-3.html">Case Study Three</a></li>
-                        <li><a href="case-details.html">Case Study Details</a></li>
-                    </ul>
-                </li>
-                <li class="has-dropdown"><a href="#">Blogs</a>
+                <li><a href="#">Prevención <i class="far fa-chevron-down"></i></a>
                     <ul class="submenu">
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                        <li><a href="blog-standard.html">Blog Standard</a></li>
-                        <li><a href="blog-details.html">Blog Details</a></li>
+                        <li><a href="<?= base_url('Dashboard/viewpadecimientos/conoce_corazon') ?>">Conoce tu corazón</a></li>
+                        <li><a href="<?= base_url('Dashboard/view/factores_riesgo') ?>">Factores de riesgo</a></li>
+                        <li>
+                            <div class="dropdown dropright">
+                                <a style="color:white" class="dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Vida cardiosaludable
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url("Dashboard/viewfactores/presion_arterial") ?>">
+                                     Presión arterial
+                                    </a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url("Dashboard/viewfactores/dieta") ?>">
+                                        Dieta
+                                    </a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url("Dashboard/viewfactores/plato") ?>">
+                                        Plato del Buen Comer
+                                    </a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url("Dashboard/viewfactores/plan_alimentacion") ?>">
+                                        Diseño de un Plan de Alimentación
+                                    </a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url("Dashboard/viewfactores/alimentacion_adecuada") ?>">
+                                        Alimentación Adecuada
+                                    </a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url("Dashboard/viewfactores/beneficios_ejercicio") ?>">
+                                        Benedificos de la Actividad Física y el Ejercicio
+                                    </a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url("Dashboard/viewfactores/dejar_fumar") ?>">
+                                        Dejar de Fumar
+                                    </a>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li>
+                            <div class="dropdown dropright">
+                                <a style="color:white" class="dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Pruebas diagnósticas
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/electrocardiograma') ?>">Electrocardiograma</a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/prueba_esfuerzo') ?>">Prueba de Esfuerzo</a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/ecocardiograma') ?>">Ecocardiograma</a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/cateterismo') ?>">Cateterismo</a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/estudio_electrofisiologico') ?>">Estudio Electrofisiológico</a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/resonancia_magnetica') ?>">Resonancia Magnética</a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/resonancia_nuclear') ?>">Resonancia Nuclear</a>
+                                    <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/rayosx') ?>">Rayos X</a>
+                                </div>
+                        </li>
                     </ul>
                 </li>
-                <li class="has-dropdown">
-                    <a href="#">Pages</a>
-                    <ul class="sub-menu">
-                        <li><a href="events-list.html">Events List</a></li>
-                        <li><a href="events-grid.html">Events Grid</a></li>
-                        <li><a href="events-details.html">Events Details</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
-                        <li><a href="gallery-2.html">Gallery Two</a></li>
-                        <li><a href="team.html">Team</a></li>
-                        <li><a href="team-details.html">Team Details</a></li>
-                        <li><a href="donation.html">Donation Form</a></li>
-                        <li><a href="volunteer.html">Volunteer</a></li>
-                        <li><a href="faq.html">FAQ</a></li>
+                <li><a href="<?= base_url('Dashboard/view/padecimientos') ?>">Padecimientos</a>
+                </li>
+                <li><a href="#">Tratamientos <i class="far fa-chevron-down"></i></a>
+                    <ul class="submenu">
+                        <li>
+                            <div class="dropdown dropright">
+                                <a style="color:white" class="dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Farmacológicos
+                                </a>
+                                <div style="color:#cd0044" class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a href="<?= base_url('Dashboard/viewfarmaco/tiposdefarmacos') ?>">Tipos de Fármacos</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="dropdown dropright">
+                                <a style="color:white" class="dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Quirúrgicos
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a style="color:#cd0044" href="<?= base_url('Dashboard/viewquirurgico/marcapasos') ?>">Marcapasos</a>
+                                    <a style="color:#cd0044" href="<?= base_url('Dashboard/viewquirurgico/desfibrilador') ?>">Desfibrilador</a>
+                                    <a style="color:#cd0044" href="<?= base_url('Dashboard/viewquirurgico/protesis_valvulares') ?>">Prótesis Valvulares</a>
+                                    <a style="color:#cd0044" href="<?= base_url('Dashboard/viewquirurgico/asistencias_ventriculares') ?>">Asistencias Ventriculares</a>
+                                    <a style="color:#cd0044" href="<?= base_url('Dashboard/viewquirurgico/cirugia') ?>">Cirugía</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="dropdown dropright">
+                                <a style="color:white" class="dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Intervencionismo
+                                </a>
+
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <a style="color:#cd0044" href="<?= base_url('Dashboard/viewintervencionismo/angioplastia/') ?>">Angioplastía</a>
+                                </div>
+                            </div>
+                        </li>
                     </ul>
                 </li>
-                <li><a href="<?= base_url('Dashboard/contact') ?>">Contacts Us</a></li>
+                <li><a href="<?= base_url('Dashboard/abc_corazon') ?>">ABC del corazón</a>
+                <li><a href="<?= base_url('Dashboard/view/about') ?>">Nosotros</a></li>
+                <li><a href="<?= base_url('Dashboard/view/cardiopatias_congenitas') ?>">Cardiopatías Congénitas </a></li>
+                <li><a href="<?= base_url('Dashboard/view/contact') ?>">Contacto </a></li>
+                <li><a href="<?= base_url('Dashboard/donat)ion') ?>">Donar </a></li>
+                <li><a style="color:white" data-toggle="modal" data-target="#privacypolicy">Aviso de privacidad </a></li>
             </ul>
         </nav>
         <!-- side-mobile-menu end -->
