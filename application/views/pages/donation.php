@@ -31,7 +31,7 @@
                             <br>Con tu aportación puedes ayudarnos en nuestro trabajo de prevención e investigación de las enfermedades cardiovasculares. No importa la cantidad, tu donativo es muy importante para nosotros.
                         </p>
 
-                        <h1 style="width: 100%";><br>Cómo donar</h1> 
+                        <h1 style="width: 100%";><br>¿Cómo donar?</h1> 
                         <p>
                             <br>Forma de canalizar tu ayuda a la Fundación Mexicana del Corazón. Aquí encontrarás toda la información que necesitas para hacerlo.
                         </p> 

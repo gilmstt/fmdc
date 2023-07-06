@@ -7,7 +7,7 @@
             <div class="col-xl-8 offset-xl-2">
                 <div class="page-title-wrapper text-center pt-125">
                     <div class="page-title-box">
-                        <h2 class="page-title">VALVULOPATÍAS</h2>
+                        <h2 class="page-title">VALVULOPATÍAS O ENFERMEDADES DE LAS VÁLVULAS CARDIACAS</h2>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                             <br>Como ya se ha dicho en otros artículos, el corazón se encuentra dividido en 4 cavidades.
                              Las 2 cavidades superiores se conocen como aurículas y las 2 cavidades inferiores que se
                              conocen como ventrículos. Las válvulas cardíacas son tejidos que se encuentran
-                             entre las cavidades superiores e inferiores; así como, entr los ventrículos y la arteria
+                             entre las cavidades superiores e inferiores; así como, entre los ventrículos y la arteria
                              pulmonar y la aorta. En la ciruculación de la sangre normal, la sangre retorna de las venas
                              a la primera cavidad que es la aurírcula derecha y pasa a través de la primera válvula 
                              conocida como válvula tricúspide hacia una de las cavidades inferiores conocida como ventrículo
@@ -76,7 +76,7 @@
 
                         </p>
                         
-                        <h1><br>Insufiencia mitral</h1>
+                        <h1><br>Insuficiencia mitral</h1>
 
                         <p>
                         <br>El cierre incompleto de la válvula mitral durante la contracción de los ventriculod cardiacos permite que un porcentaje de la sangre que bombea el corazón regurgite hacia la aurícula. A esta alteración de le conoce como insuficiencia mitral. 
@@ -157,7 +157,7 @@
                                 <br>•	El diagnóstico requiere un ecocardiograma
                                 <br>•	Para el tratamiento, se requiere manipular las válvulas, ya sea mediante un cateterismo, o una cirugía abierta
                         </p>
-                        <h1 style="width: 100% "><br>Biografía</h1>
+                        <h1 style="width: 100% "><br>Referencias:</h1>
                         <p class="sangria">
                                 <br>•	Braunwald, E. y Zipes, D. P. (2019). Tratado de cardiología: Texto de Medicina Cardiovascular. Barcelona. Elsevier.                                         
                                 

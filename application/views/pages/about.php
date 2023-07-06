@@ -7,7 +7,7 @@
                 <div class="col-xl-4 offset-xl-4">
                     <div class="page-title-wrapper text-center pt-125">
                         <div class="page-title-box">
-                            <h2 class="page-title">Nosotros</h2>
+                            <h2 class="page-title2">Nosotros</h2>
                             <!--<ul class="breadcrumb-list">
                                     <li><a href="index.html">Home <i class="far fa-chevron-right"></i></a></li>
                                     <li><a href="#">About Us</a></li>
@@ -38,8 +38,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-12">
                     <div class="about-wrap-04 mb-60 pl-40">
                         <div class="section-title text-left mb-20 wow fadeInUp2 animated" data-wow-delay='.1s'>
-                            <h6><span><i class="fas fa-heart"></i></span> Lo que hacemos</h6>
-                            <h2>Nuestra Labor</h2>
+                            <h6 style="font-size: 2rem"><span><i class="fas fa-heart"></i></span> Lo que hacemos</h6>
                         </div>
                         <div>
 
@@ -170,8 +169,7 @@
                 <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="about-wrapper we-wrapper mb-30 ">
                         <div class="section-title text-left mb-20 wow fadeInUp2 animated" data-wow-delay='.1s'>
-                            <h6><span><i class="fas fa-heart "></i></span> El Consejo del Corazón</h6>
-                            <h2 style="text-align: center">Consejo Directivo</h2>
+                            <h6><span><i class="fas fa-heart "></i></span>  Nuestro Consejo Directivo </h6>
                         </div>
                         <div class="row">
                             <div class="col-xl-3 col-lg-6 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay='.2s'>
@@ -233,14 +231,14 @@
     </section>
     </div>
     <!--donation-area start-->
-    <section class="donation-area pos-rel pt-125 pb-90" style="background-image: url(assets/img/bg/02.jpg);">
+    <section class="donation-area pos-rel pt-125 pb-90"  style="background-image: url(<?= base_url("assets/img/events/evento2.jpg")?>);">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-12">
                     <div class="donation-wrapper">
                         <div class="section-title white-title text-left mb-40 wow fadeInUp2 animated" data-wow-delay='.1s'>
                             <h6><span><i class="fas fa-heart"></i></span> Únete a nosotros</h6>
-                            <h2>Listo para donar a miles de pacientes?</h2>
+                            <h2>¿Listo para donar?</h2>
                         </div>
                     </div>
                 </div>

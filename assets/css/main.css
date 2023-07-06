@@ -107,13 +107,22 @@ a:hover {
   text-decoration: none;
 }
 
+a {
+  color: inherit !important;
+  outline: medium none;
+  text-decoration: none !important;
+}
 a,
 button {
   color: inherit;
   outline: medium none;
   text-decoration: none;
 }
-
+.btn-custom{
+  background-color:  transparent;
+  margin-right: .5rem;
+text-decoration: dashed;
+}
 button:focus, input:focus, input:focus, textarea, textarea:focus {
   outline: 0;
 }
@@ -250,6 +259,14 @@ label {
 .pos-abl {
   position: absolute;
 }
+.pos-abl-test {
+  width: 114px;
+  height: 114px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -57px 0 0 -57px;
+}
 
 /*--
     - Common Classes
@@ -317,7 +334,7 @@ label {
 ----------------------------------------*/
 .theme_btn {
   overflow: hidden;
-  color: white;
+  color: white !important;
   background: #cd0044;
   font-size: 14px;
   font-weight: 700;
@@ -331,6 +348,7 @@ label {
   cursor: pointer;
   text-transform: uppercase;
   transition: all 0.4s ease-in-out;
+  text-decoration:none !important;
 }
 .theme_btn span {
   position: absolute;
@@ -2288,8 +2306,13 @@ section-title
     margin-right: 15px;
   }
 }
+.reset{
+  color:white!important;
+  text-decoration: none!important;
+}
 .main-menu ul li > a {
-  color: #364f75;
+  color: #364f75 !important;
+  text-decoration: none!important;
   font-size: 16px;
   line-height: 1;
   font-family: "Karla", sans-serif;
@@ -2585,7 +2608,16 @@ section-title
   right: 0;
   top: -190px;
 }
-
+ .page-title2 {
+  color: white;
+  font-size: 85px;
+  line-height: 1;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin-bottom: 15px;
+  margin-top: -90px;
+}
 .page-title-wrapper .page-title {
   color: white;
   font-size: 85px;
@@ -3341,7 +3373,7 @@ input.main-search-input:-ms-input-placeholder {
   margin: 0 auto;
 }
 .services-area .services-bg {
-  margin-top: -130px;
+  margin-top: 0 px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .services-area .services-bg {
@@ -5329,6 +5361,13 @@ input.main-search-input:-ms-input-placeholder {
   background-repeat: no-repeat;
   background-position: center;
   min-height: 640px;
+}
+.events-video-area-test {
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 315px;
 }
 @media (max-width: 767px) {
   .events-video-area {

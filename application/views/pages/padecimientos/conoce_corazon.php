@@ -66,7 +66,7 @@
                             <br>¡Conocer tu corazón te ayuda a entenderlo y cuidarlo mejor!
                         </p>
 
-                        <h1 style="width: 100% "><br>Por un corazón sano,</h1>
+                        <h1 style="width: 100% "><br>Por un corazón sano.</h1>
                         <p>Fundación Mexicana del Corazón</p>
                         <p style="width: 100% ">
                             <br>Referencias:

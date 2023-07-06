@@ -18,7 +18,7 @@
                             <ul class="cases__tag white-bg">
                                 <li>
                                     <div class="cases--author d-flex align-items-center">
-                                        <h4 class="semi-02-title ml-15">Valvulopatías</h4>
+                                        <h4 class="semi-02-title ml-15">VALVULOPATÍAS O ENFERMEDADES DE LAS VÁLVULAS CARDIACAS</h4>
                                     </div>
                                 </li>
                             </ul>
@@ -34,7 +34,7 @@
                     <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.3s'>
                         <div class="cases__box pos-rel">
                             <div class="cases__box--img">
-                            <img src="<?=base_url("assets/img/padecimientos/valvulopatia.png")?>">
+                            <img src="<?=base_url("assets/img/padecimientos/cardiopatiascongenitas.png")?>">
                             </div>
                             <ul class="cases__tag white-bg">
                                 <li>
@@ -88,7 +88,7 @@
                         </div>
                         <div class="cases__content">
                             <li>
-                                    <a class="theme_btn theme_btn_bg d-btn" href="<?=base_url('Dashboard/')?>"><span><i class="fas fa-heart"></i></span>SABER MÁS</a>
+                                    <a class="theme_btn theme_btn_bg d-btn" href="<?=base_url('Dashboard/view/miocardiopatias')?>"><span><i class="fas fa-heart"></i></span>SABER MÁS</a>
                             </li>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 grid-item cat2 cat3">
+                <!--<div class="col-xl-4 col-lg-4 col-md-6 grid-item cat2 cat3">
                     <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.5s'>
                         <div class="cases__box pos-rel">
                             <div class="cases__box--img">
@@ -155,8 +155,8 @@
                             </li>
                         </div>
                     </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 grid-item cat1 cat3">
+                </div>-->
+                <!--<div class="col-xl-4 col-lg-4 col-md-6 grid-item cat1 cat3">
                     <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.7s'>
                         <div class="cases__box pos-rel">
                             <div class="cases__box--img">
@@ -176,7 +176,7 @@
                             </li>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="col-xl-4 col-lg-4 col-md-6 grid-item cat1 cat3">
                     <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.3s'>
                         <div class="cases__box pos-rel">

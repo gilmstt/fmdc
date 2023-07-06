@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="<?= base_url('assets/css/metisMenu.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/css/nice-select.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/css/slick.css') ?>">
-    <link rel="stylesheet" href="<?= base_url('assets/css/main.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('assets/css/main.css?v=3') ?>">
 </head>
 
 <body>
@@ -175,13 +175,12 @@
                                                     </div>
                                                 </div>
                                             </li>
+                                        </ul>
                                     </li>
-                                </ul>
-                                </li>
-                                <li><a href="<?= base_url('Dashboard/abc_corazon') ?>">ABC del corazón</a>
-                                <li><a href="<?= base_url('Dashboard/view/about') ?>">Nosotros</a></li>
-                                <li><a href="<?= base_url('Dashboard/view/cardiopatias_congenitas') ?>">Cardiopatías Congénitas </a></li>
-                                <li><a href="<?= base_url('Dashboard/view/contact') ?>">Contacto </a></li>
+                                    <li><a href="<?= base_url('Dashboard/abc_corazon') ?>">ABC del corazón</a>
+                                    <li><a href="<?= base_url('Dashboard/view/about') ?>">Nosotros</a></li>
+                                    <li><a href="<?= base_url('Dashboard/view/cardiopatias_congenitas') ?>">Cardiopatías Congénitas </a></li>
+                                    <li><a href="<?= base_url('Dashboard/view/contact') ?>">Contacto </a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -203,11 +202,11 @@
                 </div>
             </div>
         </div>
-        </div>
+        
         <div class="social2">
          <a href="<?= ('https://www.facebook.com/fundacionmexicanadelcorazon/') ?>"target="_blank"><img src="<?=base_url("assets/img/social/facebook.png")?>"alt="facebook"> </a>
          <a href="<?= ('https://www.instagram.com/fundacioncoramexico/') ?>" target="_blank"><img src="<?=base_url("assets/img/social/instagram.png")?>" alt="instagram"></a>
-      </div>
+        </div>
     
     </header>
     <!-- header-area end -->
@@ -274,6 +273,7 @@
                                     <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/resonancia_nuclear') ?>">Resonancia Nuclear</a>
                                     <a style="color:#cd0044" class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/rayosx') ?>">Rayos X</a>
                                 </div>
+                            </div>
                         </li>
                     </ul>
                 </li>

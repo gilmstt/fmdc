@@ -7,7 +7,7 @@
             <div class="col-xl-8 offset-xl-2">
                 <div class="page-title-wrapper text-center pt-125">
                     <div class="page-title-box">
-                        <h2 class="page-title">infarto miocardio</h2>
+                        <h2 class="page-title">Infarto miocardio</h2>
                     </div>
                 </div>
             </div>

@@ -19,17 +19,33 @@
                <h6><span><i class=" "></i></span> Voces del corazón</h6>
             </div>
          </div>
+         <div class="col-xl-6 col-lg-6 col-md-6">                      
+            <div class="events-video-area-test pos-rel mb-30" style="background-image: url(<?= base_url("assets/img/testimonial/drabalderrabano.jpeg")?>);"> 
+                  <div class="video-area pos-abl-test">
+                     <a href="<?= base_url('assets/img/testimonial/marcapasos.mp4') ?>" class="popup-video"><i class="fas fa-play"></i></a>
+                  </div>
+            </div>
+         </div>
          <div class="col-md-6 mb-10">
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8jMFYjaWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/m-8jMFYjaWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          </div>
          <div class="col-md-6  mb-10">
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/pjVrE726Dj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/pjVrE726Dj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          </div>
          <div class="col-md-6  mb-10">
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/NnnN47qqRPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/NnnN47qqRPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          </div>
          <div class="col-md-6  mb-10">
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/QtzFfNM7Zcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QtzFfNM7Zcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         </div>
+         <div class="col-md-6  mb-10">
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/QNh7RVdQLcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         </div>
+         <div class="col-md-6  mb-10">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/qOZvOKyyM-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         </div>
+         <div class="col-md-6  mb-10">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/_TUK9b02go0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          </div>
       </div>
    </div>

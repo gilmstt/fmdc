@@ -130,7 +130,7 @@
 
                             
                             
-                        <h1><br>Fuente:</h1> 
+                        <h1><br>Referencias:</h1> 
                         <p class="sangria">
                         <br>1.	Mendieta-Alcántara GG. et al (2013) Incidencia de las cardiopatías congénitas y los factores asociados a la letalidad en niños nacidos en dos hospitales del Estado de México. Gaceta Médica de México; 149:617-23.
                         <br>2.	Cardiopatías Congénitas visto en: Fundación Española del Corazón. Fecha de última consulta: 27/07/2019 <a href="https://fundaciondelcorazon.com/informacion-para-pacientes/enfermedades-cardiovasculares/cardiopatias-congenitas.html" target="_blank">URL:https://fundaciondelcorazon.com/informacion-para-pacientes/enfermedades-cardiovasculares/cardiopatias-congenitas.html</a>

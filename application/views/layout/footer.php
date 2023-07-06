@@ -8,7 +8,7 @@
                 <div class="row align-items-left">
                     <div class="col-xl-12">
                         <div class="copyright text-center">
-                            <p>Fundación Mexicana del Corazón<span><i class="fas fa-heart"></i></span><a href="#"></a></p>
+                            <p style="font-size: 24px";>Fundación Mexicana del Corazón<span><i class="fas fa-heart"></i></span><a href="#"></a></p>
                         </div>
                     </div>
                 </div>

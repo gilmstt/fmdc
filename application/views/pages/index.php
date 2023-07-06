@@ -181,7 +181,9 @@
    <section class="counter-area theme-bg pt-130 pb-60">
       <div class="container">
          <div class="row">
-            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6 mb-30">
+            <div class="col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 mb-60">
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6 mb-60">
                <div class="counetrs text-center wow fadeInUp2 animated " data-wow-delay='.1s'>
                <p>Defunciones provocadas por enfermedades del corazón.</p>
                   <div class="counetrs__icon mb-20">
@@ -277,8 +279,10 @@
                   <p>Más de 8000 reproducciones</p>
                </div>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6 mb-30">
-               <div class="counetrs text-center wow fadeInUp2 animated" data-wow-delay='.5s'>
+            <div class="col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 mb-1">
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-6 mb-12">
+               <div class="counetrs text-center wow fadeInUp2 animated" data-wow-delay='.1s'>
                   <p>Información para un estilo de vida cardiosaludable.</p>
                   <div class="counetrs__icon mb-20">
                      <svg height="130px" width="120px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -388,7 +392,7 @@
          <div class="row">
             <div class="col-xl-6 offset-xl-3">
                <div class="section-title text-center mb-35">
-                  <h6><span><i class="fas fa-heart"></i></span> Aliados</h6>
+               <a class="theme_btn theme_btn_bg" href="">Aliados<span><i class="fas fa-heart"></i></span></a>
                </div>
             </div>
          </div>
@@ -397,14 +401,14 @@
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
                      <div class="author_box__content">
-                        <h4 class="semi-02-title">Que hace la fundación méxicana del corazón?</h4>
+                        <h4 class="semi-02-title">¿Qué hace la fundación Mexicana del Corazón?</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->
                   <div class="d-flex events-video-area2 pos-rel mb-30 " style="background-image: url(assets/img/aliados/quehacelafmdc.jpg); justify-content:center; align-items:center;">
                      <div class="video-area pos-abl">
                         <!-- Link del video -->
-                        <a href="https://www.youtube.com/watch?v=-EgzHuGRPK8&t=2s" class="popup-video"><i class="fas fa-play"></i></a>
+                        <a href="https://youtube.com/watch?v=-EgzHuGRPK8" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
                   <p class="semi-title mb-10"></p>
@@ -422,7 +426,7 @@
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
                      <div class="author_box__content">
-                        <h4 class="semi-02-title">Omron</h4>
+                        <h4 class="semi-02-title">OMRON</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->
@@ -487,8 +491,8 @@
          <div class="row">
             <div class="col-xl-6 offset-xl-3">
                <div class="section-title text-center mb-35">
-                  <h6><span><i class="fas fa-heart"></i></span> Voces del corazón </h6><br>
-                  <a class="theme_btn theme_btn_bg" href="<?= base_url('Dashboard/testimonios/index') ?>">Ver más<span><i class="fas fa-heart"></i></span></a>
+                  <h6><span><i class="fas fa-heart"></i></span> VOCES DEL CORAZÓN</h6><br>
+                  <a class="theme_btn theme_btn_bg" style="text-transform: none" href="<?= base_url('Dashboard/testimonios/index') ?>">Ver Más<span><i class="fas fa-heart"></i></span></a>
                </div>
             </div>
          </div>
@@ -552,7 +556,7 @@
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
                      <div class="author_box__content">
-                        <h4 class="semi-02-title">Sr. Hector</h4>
+                        <h4 class="semi-02-title">Sr. Héctor</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->
@@ -585,8 +589,8 @@
             <div class="col-xl-7 col-lg-6 col-md-12">
                <div class="donation-wrapper">
                   <div class="section-title white-title text-left mb-40 wow fadeInUp2 animated" data-wow-delay='.1s'>
-                     <h6><span><i class="fas fa-heart"></i></span> Unete a nosotros</h6>
-                     <h2>Listo para donar a nuestros miles de pacientes ?</h2>
+                     <h6><span><i class="fas fa-heart"></i></span> Únete a nosotros</h6>
+                     <h2>¿Listo para donar?</h2>
                   </div>
                </div>
             </div>
@@ -605,7 +609,7 @@
                         </div>
                      </li>
                      <li>
-                        <a class="theme_btn theme_btn_bg" href="<?= base_url('Dashboard/donation') ?>">Donar ahora <span><i class="fas fa-heart"></i></span></a>
+                        <a class="theme_btn theme_btn_bg reset" href="<?= base_url('Dashboard/donation') ?>">Donar ahora <span><i class="fas fa-heart"></i></span></a>
                      </li>
                   </ul>
                </div>
@@ -613,148 +617,4 @@
          </div>
       </div>
    </section>
-   <!--donation-area end-->
-   <!--blog-area start-->
-   <!--   <section class="blog-area pt-130 pb-100">
-      <div class="container">
-         <div class="row">
-            <div class="col-xl-6 offset-xl-3">
-               <div class="section-title text-center mb-85  wow fadeInUp2 animated" data-wow-delay='.1s'>
-                  <h6><span><i class="fas fa-heart"></i></span> Eventos</h6>
-                  <h2>Eventos Recientes</h2>
-               </div>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.3s'>
-               <div class="blog mb-30">
-                  <div class="blog__thumb mb-40">
-                     <img src="assets/img/blog/01.png" alt="">
-                  </div>
-                  <div class="blog__content">
-                     <a class="tag" href="blog-details.html">volunteer</a>
-                     <h3 class="blog-title mb-15"><a href="blog-details.html">Experts Global Digital During
-                           Developments COVID-19</a></h3>
-                     <p class="mb-25">Sed perspiciatis unde omnis iste natus error sit
-                        atem accntium doloremque laudantium</p>
-                     <ul class="blog-author">
-                        <li><a class="mr-30" href="#"><img src="assets/img/blog/04.png" alt="">
-                              <span>Louis K. Lopez</span></a></li>
-                        <li>
-                           <i class="far fa-calendar-alt"></i> 25 Dec 2020
-                        </li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.5s'>
-               <div class="blog mb-30">
-                  <div class="blog__thumb mb-40">
-                     <img src="assets/img/blog/02.png" alt="">
-                  </div>
-                  <div class="blog__content">
-                     <a class="tag" href="blog-details.html">refugee</a>
-                     <h3 class="blog-title mb-15"><a href="blog-details.html">Creating To Continuous Test Workflow Using
-                           GitHub</a></h3>
-                     <p class="mb-25">Sed perspiciatis unde omnis iste natus error sit
-                        atem accntium doloremque laudantium</p>
-                     <ul class="blog-author">
-                        <li><a class="mr-30" href="#"><img src="assets/img/blog/05.png" alt="">
-                              <span>Raymond Silva</span></a></li>
-                        <li>
-                           <i class="far fa-calendar-alt"></i> 25 Dec 2020
-                        </li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp2 animated" data-wow-delay='.7s'>
-               <div class="blog mb-30">
-                  <div class="blog__thumb mb-40">
-                     <img src="assets/img/blog/03.png" alt="">
-                  </div>
-                  <div class="blog__content">
-                     <a class="tag" href="blog-details.html">volunteer</a>
-                     <h3 class="blog-title mb-15"><a href="blog-details.html">Standardizing And Beyond The Past Present
-                           And Future Native</a></h3>
-                     <p class="mb-25">Sed perspiciatis unde omnis iste natus error sit
-                        atem accntium doloremque laudantium</p>
-                     <ul class="blog-author">
-                        <li><a class="mr-30" href="#"><img src="assets/img/blog/06.png" alt="">
-                              <span>Daren S. Kappy</span></a></li>
-                        <li>
-                           <i class="far fa-calendar-alt"></i> 25 Dec 2020
-                        </li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section> -->
-   <!--blog-area end-->
-   <!--brand-area start-->
-   <!-- <section class="brand-area grey-bg2 pt-70">
-      <div class="container custom-container-03">
-         <div class="row brand-active pb-60">
-            <div class="col-xl-2">
-               <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.1s'>
-                  <div class="brand-img">
-                     <a href="#"><img src="assets/img/brand/01.png" alt=""></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-2">
-               <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.3s'>
-                  <div class="brand-img">
-                     <a href="#"><img src="assets/img/brand/02.png" alt=""></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-2">
-               <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.5s'>
-                  <div class="brand-img">
-                     <a href="#"><img src="assets/img/brand/03.png" alt=""></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-2">
-               <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.7s'>
-                  <div class="brand-img">
-                     <a href="#"><img src="assets/img/brand/04.png" alt=""></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-2">
-               <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.9s'>
-                  <div class="brand-img">
-                     <a href="#"><img src="assets/img/brand/05.png" alt=""></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-2">
-               <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.3s'>
-                  <div class="brand-img">
-                     <a href="#"><img src="assets/img/brand/01.png" alt=""></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-2">
-               <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.5s'>
-                  <div class="brand-img">
-                     <a href="#"><img src="assets/img/brand/02.png" alt=""></a>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xl-2">
-               <div class="brand-slide text-center wow fadeInUp animated" data-wow-delay='.7s'>
-                  <div class="brand-img">
-                     <a href="#"><img src="assets/img/brand/03.png" alt=""></a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section> -->
-   <!--brand-area end-->
 </main>

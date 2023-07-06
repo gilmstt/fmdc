@@ -5,9 +5,6 @@
             <div class="page-title-wrapper text-center pt-125">
                <div class="page-title-box">
                   <h2 class="page-title">Nos unimos por ti</h2>
-                  <ul class="breadcrumb-list">
-                     <li><a href="index.html">Home <i class="far fa-chevron-right"></i></a></li>
-                  </ul>
                </div>
             </div>
          </div>
@@ -24,7 +21,7 @@
         </div>
         <div class="col-md-6">
             <div class="section-title-2 text-left mb-20 wow fadeInUp2 animated" data-wow-delay=".1s" >
-               <h6><span><i class=" "></i></span>Cardiopatias Congenitas</h6>
+               <h6><span><i class=" "></i></span>Cardiopatías Congénitas</h6>
             </div>
             <p class="mb-20">El <b>Centro Médico ABC</b> y la <b style="color:#cd0044">Fundación Mexicana del Corazón</b> nos unimos para apoyarte en el tratamiento de algunas cardiopatías congénitas y mejorar la calidad de vida de quienes la padecen.</p>
 
