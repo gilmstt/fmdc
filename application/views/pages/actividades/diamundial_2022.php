@@ -31,38 +31,38 @@
             <h2>DÍA MUNDIAL DEL CORAZÓN</h2>
             <h4>Mensajes autoridades</h4>
             <p>
-            <br>Presidente Fundación Mexicana del Corazón <a style="color: red"; href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/1273706750054839" target="_blank";><u>Video</u></a>
+            <br>Presidente Fundación Mexicana del Corazón <a style="color: red !important !important"  href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/1273706750054839" target="_blank"><u>Video</u></a>
             </p>
             <p>
-            Vicepresidente Fundación Mexicana del Corazón <a style="color: red"; href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/466508812174773"target="_blank";><u>Video</u></a>
+            Vicepresidente Fundación Mexicana del Corazón <a style="color: red !important" href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/466508812174773"target="_blank"><u>Video</u></a>
             </p>
             <p>
-            Dra. Jessica Rojano <a style="color: red"; href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/3143908282587181" target="_blank";><u>Video</u></a>
+            Dra. Jessica Rojano <a style="color: red !important" href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/3143908282587181" target="_blank"><u>Video</u></a>
             </p>
             <p>
-            Presidente de la Sociedad Mexicana para el Cuidado del Corazón, Dr. Jorge Antonio Lara <a style="color: red"; href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/1240196436521066" target="_blank";><u>Video</u></a>
+            Presidente de la Sociedad Mexicana para el Cuidado del Corazón, Dr. Jorge Antonio Lara <a style="color: red !important" href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/1240196436521066" target="_blank"><u>Video</u></a>
             </p><br>
              
             <h4>Música</h4>
 
-            <p>Paola Dalia – Soprano : <a style="color: red"; href= "https://www.youtube.com/watch?v=l7DSsDeFNFg" target="_blank";><u>Video</u></a>
-            <p> Maestra Paulina Kohn – Violinista: <a style="color: red"; href= "https://www.youtube.com/watch?v=8UuKFF4BdDg" target="_blank";><u>Video</u></a>
+            <p>Paola Dalia – Soprano : <a style="color: red !important" href= "https://www.youtube.com/watch?v=l7DSsDeFNFg" target="_blank"><u>Video</u></a>
+            <p> Maestra Paulina Kohn – Violinista: <a style="color: red !important" href= "https://www.youtube.com/watch?v=8UuKFF4BdDg" target="_blank"><u>Video</u></a>
           
 
-            <p>Israel Gaytán – Pianista: <a style="color: red"; href= "https://www.youtube.com/watch?v=6TkK7__xkXc" target="_blank";><u>Video</u></a>
+            <p>Israel Gaytán – Pianista: <a style="color: red !important" href= "https://www.youtube.com/watch?v=6TkK7__xkXc" target="_blank"><u>Video</u></a>
 
-            <p>Ensamble Terraluz: <a style="color: red"; href= "https://www.youtube.com/watch?v=cyfFowRKk98" target="_blank";><u>Video</u></a>
+            <p>Ensamble Terraluz: <a style="color: red !important" href= "https://www.youtube.com/watch?v=cyfFowRKk98" target="_blank"><u>Video</u></a>
 
-            <p>Banda de Música de la Fuerza Aérea Mexicana: <a style="color: red"; href= "https://www.youtube.com/watch?v=5qHoqTZtrEo" target="_blank";><u>Video</u></a>
+            <p>Banda de Música de la Fuerza Aérea Mexicana: <a style="color: red !important" href= "https://www.youtube.com/watch?v=5qHoqTZtrEo" target="_blank"><u>Video</u></a>
             <br>
             <h4>Ganadores de Concursos</h4>
-            <p>Concurso Platillos Cardiosaludables 1er lugar: <a style="color: red"; href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/586607463199172" target="_blank";><u>Video</u></a>
+            <p>Concurso Platillos Cardiosaludables 1er lugar: <a style="color: red !important" href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/586607463199172" target="_blank"><u>Video</u></a>
 
-            <p>Concurso Platillos Cardiosaludables 2do lugar: <a style="color: red"; href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/615415589960953" target="_blank";><u>Video</u></a>
+            <p>Concurso Platillos Cardiosaludables 2do lugar: <a style="color: red !important" href= "https://www.facebook.com/fundacionmexicanadelcorazon/videos/615415589960953" target="_blank"><u>Video</u></a>
 
-            <p>Artesanos: <a style="color: red"; href= "https://youtu.be/lTLgbRDSZiU" target="_blank";><u>Video</u></a>
+            <p>Artesanos: <a style="color: red !important" href= "https://youtu.be/lTLgbRDSZiU" target="_blank"><u>Video</u></a>
 
-            <p>Galería de Arte:<a style="color: red"; href= " https://www.youtube.com/watch?v=Z9KZND1Uu9g" target="_blank";><u>Video</u></a>
+            <p>Galería de Arte:<a style="color: red !important" href= " https://www.youtube.com/watch?v=Z9KZND1Uu9g" target="_blank"><u>Video</u></a>
             
             <h4><br>DÍA MUNDIAL DEL CORAZÓN</h4>
             <p>
@@ -88,7 +88,7 @@
                         <tbody>
                             <tr>
                                 <td><img src="<?=base_url('assets/img/actividades/diamundialcorazon1.jpeg')?>" alt="" width="500" height="600" /></td>
-                                <td><img src="<?=base_url('assets/img/actividades/DíaMundialdelCorazon2.jpeg')?>" alt="" width="500" height="600" /></td>
+                                <td><img src="<?=base_url('assets/img/actividades/DiaMundialdelCorazon2.jpeg')?>" alt="" width="500" height="600" /></td>
                             </tr>
                         </tbody>
             </table>

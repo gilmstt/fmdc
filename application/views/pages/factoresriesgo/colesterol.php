@@ -30,72 +30,60 @@
                         </p>
                         
 <p>
-<br>¿Alguna vez se ha realizado análisis de sangre? ¿Recuerda sus niveles de colesterol? ¿Sabe lo que significan?
-El colesterol no es un enemigo, es un tipo de grasa o lípido que todos tenemos y que necesitamos para vivir. Pero, ¿por qué hace daño? A continuación, encontrará toda la información sobre este temido pero valioso lípido.
+    <br>¿Alguna vez se ha realizado análisis de sangre? ¿Recuerda sus niveles de colesterol? ¿Sabe lo que significan?
+</p>
+<p>
+    <br>El colesterol no es un enemigo, es un tipo de grasa que todos tenemos y que necesitamos para vivir. Pero, ¿por qué hace daño? A continuación, encontrará toda la información sobre esta temida pero valiosa grasa.
 </p>
 
 <h1>
 <br>¿Qué es y para qué sirve?
 </h1>
 <p>
-El colesterol es una grasa o lípido que se encuentra en las células de nuestro cuerpo y forma parte de ellas. El hígado produce colesterol, ya que lo necesitamos para formar algunas hormonas y ácidos biliares que nos ayudan en el proceso de digestión.
-<br>El colesterol es necesario para mantener un estado de salud adecuado y realizar varias funciones en nuestro organismo, es decir, necesitamos de este lípido para vivir y estar sanos.
-<br>Cuando comemos también ingerimos colesterol y hacemos un aporte extra de esta grasa a nuestro organismo.
-<br>La sangre es la encargada de transportar este lípido y llevarlo a dónde sea necesario; cuando el colesterol viaja por nuestros vasos sanguíneos lo hace unido a otras partículas conocidas como lipoproteínas que, aunque suene como una palabra rara, son esas las que usted puede ver en sus análisis de sangre, ya que podemos medir el colesterol a través de ellas.
+    El colesterol es un tipo de grasa que se encuentra en todas las células de nuestro cuerpo, formando parte fundamental de algunos elementos celulares como la membrana plasmática. También el colesterol es necesario para la formación de algunas hormonas escenciales para el correcto funcionamiento de nuestro orgenismo como el cortisol, la aldosterona, los estrógenos y la testosterona. De igual manera, el colesterol es escencial en la formación de los ácidos biliares que nos ayudan en el proceso de disgestión. Dado que es un elemento escencial para nuestra vida, el propio hígado produce colesterol. Cuando ingerimos colesterol, hacemos un aporte extra de esta grasa a nuestro organismo.
+    <br>Dado que en nuestro orgenismo el colesterol solamente se produce en el hígado y se puede absorver en el proceso digestivo, existe un complejo mecanismo de transporte a través de la sangre y hacia todos los tejidos.  Este mecanismo de transporte se logra gracias a un conjunto especial de proteínas conocidas como lipoproteínas, las cuales se unen al colesterol y a los ácidos grasos y los transportan hacia sus diferentes destinos.
 </p>
 
 <h1>
-<br>Colesterol bueno vs colesterol malo… ¿Cuál es cuál?
+    <br>¿Colesterol bueno, colesterol malo?
 </h1>
-<p>
-Hay dos partículas principales que transportan el colesterol en sangre, se llaman LDL o lipoproteína de baja densidad y HDL o lipoproteína de alta densidad.
+<p >
+Como se ha dicho anteriormente, existe un complejo mecanismo de transporte de colesterol en el cuerpo que involucra a las lipoproteínas. Estas lipoproteínas forman un conjutno de moléculas transportadoras de las cuales hay dos partículas principales que se conocen como lipoproteínas de baja densidad (LDL por sus siglas en inglés) y lipoproteínas de alta densidad (HDL por sus siglas en inglés). Pero ¿existe el colesterol bueno y el colesterol malo? A continuación hablaremos sobre estas dos principales moléculas: 
+</p>
+<p class="sangria">
+    <br><br> •	Lipoproteínas de baja densidad (LDL): este tipo de molécula es la encargada de transportar el colesterol hacia cada una de las células del cuerpo. Es conocida como el “colesterol malo” debido a que sus altos niveles se correlacionan con el depósito de colesterol en las paredes de las arterias conocido como placas de ateroma, las cuales son responsables de enfermedades como el infarto agudo al miocardio, la enfermedad arterial periférica y la enfermedad vascular cerebral.
 
-<br><br>• LDL: también llamado colesterol “malo”, recibe este nombre ya que su trabajo es llevar el colesterol desde el hígado hacia las células, es decir lleva el colesterol por la sangre y lo deposita en distintos lugares, entre ellos nuestras arterias.
-Cuando el colesterol LDL se encuentra elevado en sangre se acumula en las paredes de las arterias, formando placas y obstruyendo el flujo sanguíneo, por lo que un exceso de LDL nos pone en mucho mayor riesgo de padecer un infarto o ataque al corazón.
-
-<br>• HDL: también conocido como colesterol “bueno”, se le dice así, porque su trabajo es transportar el colesterol desde las células hacia el hígado, para que así pueda ser eliminado. El colesterol HDL nos ayuda o “protege” contra infartos y enfermedades cardiovasculares, es decir cuando sus niveles en sangre son elevados hay menor riesgo de padecer ataques al corazón. Es el único tipo de colesterol que debe estar alto en sangre.
-
-<br><br>Al realizar un análisis de sangre o perfil de lípidos, encontramos reportados estos dos tipos de colesterol, así como los niveles de colesterol total y de triglicéridos.
-El colesterol total resulta de la suma de todas las lipoproteínas, lo que incluye colesterol LDL y HDL. Los triglicéridos por su parte son otro tipo de grasa o lípido, se encargan de darnos energía, un exceso de triglicéridos aumenta el riesgo de enfermedades cardiovasculares.
-
-<br><br>Si los niveles elevados son dañinos, ¿Cuáles son los niveles adecuados?
-<br>• Niveles de LDL recomendados para la población en general: Menos de 100mg/dL
-<br>• Niveles de HDL recomendados para la población en general: Mayores a 40mg/dL
-<br>• Niveles de colesterol total recomendados para la población en general: Menos de 200mg/dL
-<br>• Niveles de triglicéridos recomendados para la población en general: Menos de 150mg/dL
-
-<br><br>Es importante señalar que los niveles recomendados en general pueden cambiar de acuerdo a su estado de salud; su cardiólogo o médico de cabecera puede orientarlo de acuerdo a su caso en particular.
-
+    <br><br>•	Lipoproteínas de alta densidad (HDL): este tipo de molécula es la encargada de transportar el colesterol desde los tejidos hacia el hígado. Es conocido como “colesterol bueno” debido a que su trabajo es transportar el colesterol desde las células hacia el hígado, para que así pueda ser eliminado. El colesterol HDL nos ayuda o “protege” contra infartos y enfermedades cardiovasculares, es decir cuando sus niveles en sangre son elevados hay menor riesgo de padecer ataques al corazón. Es el único tipo de colesterol que debe estar alto en sangre.
 </p>
 
-<h1>
-<br>¿Porqué se elevan mis niveles?
-</h1>
-<p>
-El colesterol y los triglicéridos en sangre se elevan cuando consumimos más grasas de las necesarias en nuestra dieta, es decir, una dieta o alimentación rica en grasas saturadas y carbohidratos aumentará nuestros niveles de lípidos en sangre.
-<br>Existen otros factores que favorecen la elevación del colesterol, como la falta de actividad física o sedentarismo, la obesidad y sobrepeso, tabaquismo y enfermedades como la diabetes. Es importante mencionar que el colesterol tiende a elevarse con la edad y más común en mujeres que en hombres.
-</p>
-
-<h1>
-<br>¿Qué pasa si se eleva el colesterol en sangre?
-
-</h1>
-<p>
-El riesgo de padecer enfermedades cardiovasculares aumenta. El colesterol se considera un factor de riesgo importante para desarrollar enfermedades en el corazón incluyendo un infarto cardiaco, del mismo modo aumenta el riesgo de sufrir una hemorragia o infarto cerebral.
-Mantener sus lípidos en niveles adecuados evitará estas terribles consecuencias.
-</p>
-<h1>
-<br>¿Cómo puedo mejorar mis niveles de colesterol?
-</h1>
-<p>
-Mantener una alimentación balanceada es muy importante, evite alimentos fritos y comida que contenga grasas saturadas, no reutilice el aceite y en la medida de lo posible evite el uso de mantequilla y carne roja. Disminuya su consumo de carbohidratos y limite su consumo de alcohol.
-<br>Realizar ejercicio también es muy importante, así como bajar de peso si usted no se encuentra en niveles adecuados.
-<br>Dejar de fumar y cuidar su estilo de vida le brindarán grandes beneficios.
-<br>Los fármacos que disminuyen los niveles de colesterol se llaman estatinas y usted puede necesitar estos medicamentos si su médico así lo decide, no están indicados en todas las personas ya que hay factores como edad, historia familiar y estado de salud que su médico considera al momento de tomar esta decisión.
-
-<br>Es muy importante cuidar nuestra salud y nuestro corazón; mejorar nuestro estilo de vida y mantener niveles adecuados de colesterol en sangre, nos ayudará a disminuir el riesgo de infarto y enfermedades cardiovasculares.
-
-</p>
+    <h1><br>Niveles normales de colesterol</h1>
+    <br>Como se ha mencionado, los niveles altos de colesterol en sangre pueden ser dañinos para la salud, favoreciendo la aperición de ateroesclerosis y enfermedad cardiovascular. ¿Cuáles son los niveles adecuados de colesterol y otras grasas en sangre?</br>
+    <p class="sangria">
+        <br>1.	Niveles de LDL: se recomienda para la población en general niveles menores de 100mg/dL. Sin embargo existen diferentes poblaciones especiales como pacientes con diabetes o con antecedentes de enfermedad cardiovascular, en las cuales niveles de LDL recomendados son menores.  
+        <br><br>2.	Niveles de HDL: se recimienda para población general mayores de 40mg/dL en hombres y mayores de 50mg/dL en mujeres. 
+        <br><br>3.	Niveles de colesterol total: se recomiendan en población general niveles menores de 200mg/dL. 
+        <br><br>4.	Niveles de triglicéridos: se recomienda en población general niveles menores a  150mg/dL. 
+    </p>
+    
+    <p>
+        <br>Es importante señalar que los niveles recomendados pueden cambiar de acuerdo a su estado de salud; su médico de cabecera puede orientarlo de acuerdo a su caso en particular.
+    
+        <h1><br>¿Porqué se elevan los niveles de colesterol?</h1>
+        El colesterol y los triglicéridos en sangre se elevan debido a múltiples factores entre los que se encuentran la genética y el consumo elevado de grasas. Existen condiciones en las que existe un defecto genético que favorece la elevación de los niveles de colesterol, triglicéridos o ambos. Una característica sugestiva de este tipo de enfermedad es un gran número de personas en la familia con niveles elevados de grasas en sangre, sobre todo si dichas elevaciones son muy altas. Por otro lado, el consumo alto de grasas y carbohidratos simples aumenta los niveles de grasas en la sangre. 
+        <br><br>Existen otros factores que favorecen la elevación del colesterol, como la falta de actividad física o sedentarismo, la obesidad y sobrepeso, tabaquismo y enfermedades como la diabetes. También es importante mencionar que el colesterol tiende a elevarse con la edad.
+        
+        <h1><br>¿Qué pasa si se eleva el colesterol en sangre?</h1>
+        El riesgo de padecer enfermedades cardiovasculares aumenta. El colesterol se considera un factor de riesgo importante para desarrollar enfermedades en el corazón incluyendo un infarto cardiaco, enfermedad arterial periférica y enfermedad vascular cerebral.
+        <h1><br> ¿Cómo puedo mejorar mis niveles de colesterol?</h1>
+        Existen medidas que nos ayudan a mejorar los niveles de colesterol. En caso de no poder mantener niveles normales de colesterol y contar con un riesgo cardiovascular elevado, el médico puede prescribir medicamentos que ayudan a disminuir los niveles de colesterol hasta niveles adecuados.
+        <p class="sangria"> 
+            <br>1.	Mantener una alimentación balanceada es muy importante: evite alimentos fritos y comida que contenga grasas saturadas, no reutilice el aceite y en la medida de lo posible evite el uso de mantequilla y limite el consumo de carne roja que contiene mayor contenido de grasas. Disminuya su consumo de carbohidratos y limite su consumo de alcohol.
+            <br>2.	Favorezca el consumo de grasas “buenas”: el consumo de alimentos ricos en grasas buenas favorece la disminución de los niveles de LDL y el auemnto de los niveles de HDL. Los pescados oleosos como el salmón o el atún en trozo, así como los frutos secos, contienen niveles altos de grasas “buenas, por lo que su consumo favorece un mejor perfil de grasas en nuestro organismo, 
+            <br>3.	Ejercicio: realizar actividad física al menos 30 minutos 5 veces por semana ayuda a mejorar los niveles de colesterol en sangre, 
+            <br>4.	Pérdida de peso: mantener un peso estable en rangos saludables es de suma importancia cuando se busca mantener las grasas dentro de parámetros normales. Si presenta sobrepeso u obesidad, la pérdida de peso favorece un mejor control de las grasas en la sangre. .
+        </p>
+        <br><br>Es muy importante cuidar nuestra salud y nuestro corazón; mejorar nuestro estilo de vida y mantener niveles adecuados de colesterol en sangre, nos ayuda a disminuir el riesgo de infarto y de otras enfermedades cardiovasculares.
+    </p>
 <h1>
 <br>Referencias:
 </h1>

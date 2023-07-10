@@ -69,7 +69,7 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-xl-2 col-lg-2 col-md-6 col-6">
                         <div class="logo">
-                            <a class="logo-img" href="index.html"><img src="<?= base_url("assets/img/logo.png") ?>" alt=""></a>
+                            <a class="logo-img" href="<?= base_url() ?>"><img src="<?= base_url("assets/img/logo.png") ?>" alt=""></a>
                         </div>
                     </div>
                     <div class="col-xl-8 col-lg-7 d-none d-lg-block text-lg-center text-xl-right">

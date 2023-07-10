@@ -411,14 +411,6 @@
                         <a href="https://youtube.com/watch?v=-EgzHuGRPK8" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
-                  <p class="semi-title mb-10"></p>
-                  <div class="review-icon">
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                  </div>
                </div>
             </div>
             <!-- Omron video -->
@@ -436,14 +428,6 @@
                         <a href="https://www.youtube.com/watch?v=l4BpY4oesso" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
-                  <p class="semi-title mb-10"></p>
-                  <div class="review-icon">
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                  </div>
                </div>
             </div>
             <!-- ABC video-->
@@ -460,14 +444,6 @@
                         <!-- Link del video -->
                         <a href="https://www.youtube.com/watch?v=XoEiS0errhI" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
-                  </div>
-                  <p class="semi-title mb-10"></p>
-                  <div class="review-icon">
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
                   </div>
                </div>
             </div>
@@ -512,14 +488,6 @@
                         <a href="<?= base_url('assets/img/testimonial/marcapasos.mp4') ?>" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
-                  <p class="semi-title mb-10"></p>
-                  <div class="review-icon">
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                  </div>
                   <p style="text-align: justify">
                      Quiero compartir con ustedes la historia de mi mamá y su increíble transformación; hace algún tiempo, ella comenzó a experimentar dificultad para respirar, mareos y fatiga.
                   </p>
@@ -541,14 +509,6 @@
                         <a href="https://www.youtube.com/watch?v=pjVrE726Dj8" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
                   </div>
-                  <p class="semi-title mb-10"></p>
-                  <div class="review-icon">
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                  </div>
                </div>
             </div>
             <!-- Hector Video -->
@@ -565,14 +525,6 @@
                         <!-- Link del video -->
                         <a href="https://www.youtube.com/watch?v=QtzFfNM7Zcc" class="popup-video"><i class="fas fa-play"></i></a>
                      </div>
-                  </div>
-                  <p class="semi-title mb-10"></p>
-                  <div class="review-icon">
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
-                     <a href="#"><i class="fas fa-star"></i></a>
                   </div>
                </div>
             </div>

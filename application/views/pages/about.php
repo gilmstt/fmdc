@@ -202,6 +202,9 @@
                                                 López Mora</a>
                                         </h3>
                                         <p> VICEPRESIDENTE Y TESORERO</p>
+                                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">
+                                            Semblanza
+                                        </button>
                                     </div>
                                 </div>
                             </div>
@@ -325,6 +328,43 @@
                         <br>Coordinadora Internacional de Protocolos de Investigación Clínica
                         <br>Asistente Editorial de la Revista Institucional Motu Cordis
                         <br>Secretario del Consejo Directivo de la Fundación Mexicana del Corazón
+
+                    </p>
+                </div>
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Cerrar</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- The Modal -->
+<div class="modal" id="myModal2">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">Semblanza</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <div style="text-align: justify" ;>
+                    <h1>ENRIQUE LÓPEZ MORA</h1>
+                    <p>
+                        <br>Cursó la carrera de médico Cirujano en la Escuela Mexicana de Medicina de la Universidad La Salle
+                        <br><br>Medicina Interna por la Universidad de Guadalajara, Centro Médico de Occidente, Instituto Mexicano del Seguro Social
+                        <br><br>Cardiología, Universidad Nacional Autónoma de México, Instituto Nacional de Cardiología “Ignacio Chávez. 
+                        <br><br>Medicina del Enfermo en Estado Crítico, Universidad Nacional Autónoma de México, “American British Cowdray Medical Center”
+                        <br><br>Profesor de Fisiología Cardiovascular Renal y Respiratoria, Departamento de Fisiología, Facultad de Medicina, Universidad Nacional Autónoma de México.
+                        <br><br>Profesor del Curso de Cardiología, Facultad Mexicana de Medicina, Universidad La Salle.
+                        <br><br>Ha trabajado en los servicios de cardiología Clínica, Rehabilitación Cardiaca, Clínica de Insuficiencia Cardiaca y Trasplante y  Terapia Intensiva Postquirúrgica Cardiovascular.
+                        <br><br>Vicepresidente y Tesorero de la fundación Mexicana del Corazón . 
 
                     </p>
                 </div>
