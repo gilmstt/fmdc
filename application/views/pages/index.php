@@ -98,6 +98,9 @@
          .posts-header {
             padding-bottom: 0px;
          }
+         .events-video-area2 {
+            min-height: 300px !important
+         }
       }
 
       @media only screen and (min-width: 1200px) {
