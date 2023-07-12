@@ -25,7 +25,7 @@
                         </div>
                         <div class="cases__content">
                             <li>
-                            <a class="theme_btn theme_btn_bg d-btn" href="<?=base_url('Dashboard/viewpadecimientos/enfermedades_valvulas')?>"><span><i class="fas fa-heart"></i></span> SABER MÁS</a>
+                            <a class="theme_btn theme_btn_bg d-btn" href="<?=base_url('Dashboard/view/valvulopatias')?>"><span><i class="fas fa-heart"></i></span> SABER MÁS</a>
                             </li>
                         </div>
                     </div>

@@ -52,7 +52,7 @@
 
 <br><br>El tratamiento curativo requiere de una intervención directa sobre la válvula, ya sea mediante una variante especial de un cateterismo, o mediante cirugía abierta.  En algunos casos, se podrá incluir agentes anticoagulantes, si se sospecha que la estenosis mitral ha causado enfermedades adicional, como la fibrilación auricular.
 
-<h1><br>Insufiencia mitral</h1>
+<h1><br>Insuficiencia mitral</h1>
 
 <br><br>El cierre incompleto de la válvula durante la contracción cardiaca permite que un porcentaje de la sangre que bombea el corazón regurgite hacia la aurícula.
 
