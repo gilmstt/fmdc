@@ -57,6 +57,25 @@
                </div>
             </div>
          </div>
+        <!-- <div class="single-slider slider-height pos-rel d-flex align-items-center" style="background-image: url(assets/img/slider/omron.png);">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-8">
+                     <div class="slider__content text-left">
+                     <h5 class="sub-title mb-25 wow fadeInUp2 animated" data-wow-delay=".1s"><span class="pr-10"><i class="fas fa-heart"></i></span>Omron</h5>
+                        <h1 class="main-title mb-35 wow fadeInUp2 animated"data-wow-delay=".2s">
+                           Curso de actualización para médicos
+                        </h1>
+                        <ul class="btn-list wow fadeInUp2 animated" data-wow-delay=".3s">
+                           <li><a class="theme_btn theme_btn_bg" href="https://qrco.de/bdH6Of" target="_blank">Curso omron <span><i class="fas fa-heart"></i></span></a>
+                           </li>
+
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>-->
       </div>
    </div>
    <!--slider-area end-->
@@ -313,7 +332,7 @@
       <div class="container-fluid pl-55 pr-55">
          <div class="row no-gutters ">
             <div class="col-xl-6 col-lg-12 col-md-12">
-               <div class="events-video-area pos-rel mb-30" style="background-image: url(assets/img/events/Insuficiencia_cardiaca.jpg)">
+               <div class="events-video-area pos-rel mb-30" style="background-image: url(assets/img/events/EncuentroJulio.jpg)">
                </div>
             </div>
             <div class="col-xl-6 col-lg-12 col-md-12 pr-70">
@@ -323,14 +342,14 @@
                      <ul class="events__list__one align-items-center justify-content-between pl-50 pr-50">
                         <li>
                            <div class="events__content">
-                              <span><i class="far fa-calendar-alt"></i> 24 junio 2023</span>
-                              <h3 class="mb-15"><a href="events-details.html">Ver evento en facebook</a></h3>
+                              <span><i class="far fa-calendar-alt"></i> 29 julio 2023</span>
+                              <h3 class="mb-15"><a href="https://us02web.zoom.us/j/82262226720?pwd=S283Y2FLclk3ZGlYaGVlU3NkTFpsZz09">Ver evento en zoom</a></h3>
                               <p></p>
                            </div>
                         </li>
                         <li>
                            <div class="events__btn text-md-center text-xl-right">
-                              <a class="theme_btn theme_btn_bg" href="https://fb.watch/lpC2ct18YR/" target="_blank">Ver evento <span><i class="fas fa-heart"></i></span></a>
+                              <a class="theme_btn theme_btn_bg" href="https://us02web.zoom.us/j/82262226720?pwd=S283Y2FLclk3ZGlYaGVlU3NkTFpsZz09" target="_blank">Ver evento <span><i class="fas fa-heart"></i></span></a>
                            </div>
                         </li>
                      </ul>
@@ -481,7 +500,7 @@
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
                      <div class="author_box__content">
-                        <h4 class="semi-02-title">Dra. Balderrama</h4>
+                        <h4 class="semi-02-title">Dra. Balderrabano</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->

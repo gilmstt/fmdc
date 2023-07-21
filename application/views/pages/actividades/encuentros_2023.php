@@ -24,8 +24,8 @@
             </div>
          </div>
          <div class="col-md-6  mb-10">
-            <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164 " data-width="500" data-show-text="true">
-               <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164"><a href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164">Encuentro con pacientes FMC</a>
+            <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164/" data-width="500" data-show-text="true">
+               <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164/"><a href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164/">Encuentro con pacientes FMC</a>
 
                ¿Sabes qué es la insuficiencia cardíaca?
 

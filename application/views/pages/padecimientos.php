@@ -9,6 +9,48 @@
                 <a class="tag">Última actualización de contenidos mayo, 2023.</a>
             </div>
             <div class="row grid">
+            <div class="col-xl-4 col-lg-4 col-md-6 grid-item cat2 cat5 cat3">
+                    <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.3s'>
+                        <div class="cases__box pos-rel">
+                            <div class="cases__box--img">
+                            <img src="<?=base_url("assets/img/padecimientos/fibrilacion.png")?>">
+                            </div>
+                            <ul class="cases__tag white-bg">
+                                <li>
+                                    <div class="cases--author d-flex align-items-center">
+                                        <h4 class="semi-02-title ml-15">¿QUÉ ES LA FIBRILACIÓN AURICULAR?</h4>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="cases__content">
+                            <li>
+                            <a class="theme_btn theme_btn_bg d-btn" href="https://www.youtube.com/embed/6pct2MDmvVs" target="_blank"><span><i class="fas fa-heart"></i></span> SABER MÁS</a>
+                            </li>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 grid-item cat2 cat5 cat3">
+                    <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.3s'>
+                        <div class="cases__box pos-rel">
+                            <div class="cases__box--img">
+                            <img src="<?=base_url("assets/img/padecimientos/muertesubita.png")?>">
+                            </div>
+                            <ul class="cases__tag white-bg">
+                                <li>
+                                    <div class="cases--author d-flex align-items-center">
+                                        <h4 class="semi-02-title ml-15">¿QUÉ ES LA MUERTE SÚBITA?</h4>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="cases__content">
+                            <li>
+                            <a class="theme_btn theme_btn_bg d-btn" href="https://www.youtube.com/embed/5R6zsRWhPRY" target="_blank"><span><i class="fas fa-heart"></i></span> SABER MÁS</a>
+                            </li>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 grid-item cat2 cat5 cat3">
                     <div class="cases grey-bg2 mb-30 wow fadeInUp2 animated" data-wow-delay='.3s'>
                         <div class="cases__box pos-rel">

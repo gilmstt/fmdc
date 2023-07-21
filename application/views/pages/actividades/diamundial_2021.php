@@ -48,10 +48,10 @@
 
                 <h1><br>Heroínas del Corazón</h1>
                 <div class="col-md-6 mb-10">
-                    <iframe width="560" height="315" src="https://youtu.be/6zbOL6_yfXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/6zbOL6_yfXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-6 mb-10">
-                    <iframe width="560" height="315" src="https://youtu.be/4eHoBFldUOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/4eHoBFldUOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
                 
                 <br>Heroína del corazón Lic. María Esther <a style="color: red"; href= "https://youtu.be/6pWeoZjzAl0" target="_blank";><u>Video</u></a>

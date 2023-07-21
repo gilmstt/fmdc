@@ -43,27 +43,6 @@
     <!-- preloader end  -->
     <!-- header-area start -->
     <header id="top-menu">
-        <div class="header-top-area pos-rel pt-10 pb-15 d-none d-lg-block">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-xl-6 offset-xl-2 col-lg-7 text-right">
-                        <div class="top-cta">
-                            <!-- <span>Welcome To NovoCare. Most Popular Charity Foundation Web Site <a class="media-link" href="#">Sing up</a></span>-->
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-5 text-right">
-                        <div class="top-right-nav">
-                            <ul>
-                                <li> <a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                <li><a href="#"><i class="fab fa-vimeo-square"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="main-header-area">
             <div class="container-fluid">
                 <div class="row align-items-center justify-content-between">
@@ -204,8 +183,10 @@
         </div>
         
         <div class="social2">
-         <a href="<?= ('https://www.facebook.com/fundacionmexicanadelcorazon/') ?>"target="_blank"><img src="<?=base_url("assets/img/social/facebook.png")?>"alt="facebook"> </a>
-         <a href="<?= ('https://www.instagram.com/fundacioncoramexico/') ?>" target="_blank"><img src="<?=base_url("assets/img/social/instagram.png")?>" alt="instagram"></a>
+         <a href="<?= ('https://www.facebook.com/fundacionmexicanadelcorazon/') ?>"target="_blank"><img src="<?=base_url("assets/img/social/facebook.png")?>"alt="facebook" width="28px"> </a>
+         <a href="<?= ('https://www.instagram.com/fundacioncoramexico/') ?>" target="_blank"><img src="<?=base_url("assets/img/social/instagram.png")?>" alt="instagram" width="28px"></a>
+         <a href="<?= ('https://twitter.com/FundadelCorazon') ?>"target="_blank"><img src="<?=base_url("assets/img/social/twitter.png")?>"alt="twitter" width="28px"> </a>
+         <a href="<?= ('https://www.youtube.com/@fundacionmexicanadelcorazo954/videos') ?>"target="_blank"><img src="<?=base_url("assets/img/social/youtube.png")?>"alt="youtube" width="28px"> </a>
         </div>
     
     </header>

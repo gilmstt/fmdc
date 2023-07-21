@@ -68,7 +68,7 @@
                                 </a>
                             </div>
                             <div class="blog__content">
-                                <a class="tag" href="blog-details.html">Dia Mundial</a>
+                                <a class="tag">Dia Mundial</a>
                                 <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-diamundial_2020')?>">
                                  DÍA MUNDIAL DEL CORAZÓN 2020</a></h3>
                                 <p class="mb-25"></p>
@@ -84,7 +84,7 @@
                                 </a>
                             </div>
                             <div class="blog__content">
-                                <a class="tag" href="blog-details.html">Dia Mundial</a>
+                                <a class="tag">Dia Mundial</a>
                                 <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-diamundial_2021')?>">DÍA MUNDIAL DEL CORAZÓN 2021</a></h3>
                                 <p class="mb-25"></p>
                                
@@ -99,7 +99,7 @@
                                 </a>
                             </div>
                             <div class="blog__content">
-                                <a class="tag" href="blog-details.html">Dia Mundial</a>
+                                <a class="tag">Dia Mundial</a>
                                 <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-diamundial_2022')?>">DÍA MUNDIAL DEL CORAZÓN 2022</a></h3>
                                 <p class="mb-25"></p>
                                
@@ -113,7 +113,7 @@
                                 </a>
                             </div>
                             <div class="blog__content">
-                                <a class="tag" href="blog-details.html">Encuentros</a>
+                                <a class="tag">Encuentros</a>
                                 <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2023')?>">ENCUENTROS CON PACIENTES 2023</a></h3>
                                 <p class="mb-25"></p>
                                 
@@ -128,7 +128,7 @@
                                 </a>
                             </div>
                             <div class="blog__content">
-                                <a class="tag" href="<?=base_url('view/actividades-encuentros_2022')?>">Encuentros</a>
+                                <a class="tag" >Encuentros</a>
                                 <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2022')?>">ENCUENTROS CON PACIENTES 2022</a></h3>
                                 <p class="mb-25"></p>
                                
@@ -143,7 +143,7 @@
                                 </a>
                             </div>
                             <div class="blog__content">
-                                <a class="tag" href="blog-details.html">Encuentros</a>
+                                <a class="tag">Encuentros</a>
                                 <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2021')?>">ENCUENTROS CON PACIENTES 2021</a></h3>
                                 <p class="mb-25"></p>
                                 
@@ -158,7 +158,7 @@
                                 </a>
                             </div>
                             <div class="blog__content">
-                                <a class="tag" href="blog-details.html">Encuentros</a>
+                                <a class="tag">Encuentros</a>
                                 <h3 class="blog-title mb-15"><a href="<?=base_url('Dashboard/view/actividades-encuentros_2020')?>">ENCUENTROS CON PACIENTES 2020</a></h3>
                                 <p class="mb-25"></p>
                                
