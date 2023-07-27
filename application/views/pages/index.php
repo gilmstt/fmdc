@@ -423,7 +423,7 @@
                <div class="testimonial-item white-bg pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                   <div class="author_box d-flex align-items-center mb-25">
                      <div class="author_box__content">
-                        <h4 class="semi-02-title">¿Qué hace la fundación Mexicana del Corazón?</h4>
+                        <h4 class="semi-02-title">¿Qué hace la Fundación Mexicana del Corazón?</h4>
                      </div>
                   </div>
                   <!-- Foto de preview del video -->

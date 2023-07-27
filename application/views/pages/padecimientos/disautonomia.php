@@ -26,7 +26,7 @@
                     </div>
                     <div class="row " style="text-align: justify;">
                         <p>
-                            Escrito por el Dr. Alejandro López Leija. Medicina Interna.
+                            Escrito por el Dr. Jesús Antonio González Hermosillo González.
                         </p>
                         
                         <p>
