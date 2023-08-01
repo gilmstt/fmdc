@@ -185,7 +185,7 @@
         <div class="social2">
          <a href="<?= ('https://www.facebook.com/fundacionmexicanadelcorazon/') ?>"target="_blank"><img src="<?=base_url("assets/img/social/facebook.png")?>"alt="facebook" width="28px"> </a>
          <a href="<?= ('https://www.instagram.com/fundacioncoramexico/') ?>" target="_blank"><img src="<?=base_url("assets/img/social/instagram.png")?>" alt="instagram" width="28px"></a>
-         <a href="<?= ('https://twitter.com/FundadelCorazon') ?>"target="_blank"><img src="<?=base_url("assets/img/social/twitter.png")?>"alt="twitter" width="28px"> </a>
+         <a href="<?= ('https://twitter.com/FundadelCorazon') ?>"target="_blank"><img src="<?=base_url("assets/img/social/twitterx.png")?>"alt="twitter" width="28px"> </a>
          <a href="<?= ('https://www.youtube.com/@fundacionmexicanadelcorazo954/videos') ?>"target="_blank"><img src="<?=base_url("assets/img/social/youtube.png")?>"alt="youtube" width="28px"> </a>
         </div>
     
