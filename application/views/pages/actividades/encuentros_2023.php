@@ -24,21 +24,19 @@
             </div>
          </div>
          <div class="col-md-6  mb-10">
+            <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/785004950042786" data-width="500" data-show-text="true">
+               <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/fundacionmexicanadelcorazon/videos/785004950042786"><a href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/785004950042786">Encuentro con pacientes FMC</a>
+               <p>prueba de posteo</p>
+            </div>
+         </div>
+         <div class="col-md-6  mb-10">
             <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164/" data-width="500" data-show-text="true">
                <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164/"><a href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164/">Encuentro con pacientes FMC</a>
-
-               ¿Sabes qué es la insuficiencia cardíaca?
-
-               Publicado por <a href="https://www.facebook.com/fundacionmexicanadelcorazon/">Fundación Mexicana del Corazón</a> en Sábado, 24 de junio de 2023</blockquote>
             </div>
          </div>
          <div class="col-md-6 mb-10">
             <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/570644608236879" data-width="500" data-show-text="true">
                   <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/fundacionmexicanadelcorazon/videos/570644608236879 "><a href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/570644608236879">Encuentro con Pacientes FMC</a>
-
-                  Cuidemos nuestro corazón desde la infancia
-
-               Publicado por <a href="https://www.facebook.com/fundacionmexicanadelcorazon/">Fundación Mexicana del Corazón</a> en Sábado, 29 de abril de 2023</blockquote>
             </div>
          </div>
       </div>
