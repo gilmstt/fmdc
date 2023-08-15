@@ -106,7 +106,7 @@
                                                         <a class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/electrocardiograma') ?>">Electrocardiograma</a>
                                                         <a class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/prueba_esfuerzo') ?>">Prueba de Esfuerzo</a>
                                                         <a class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/ecocardiograma') ?>">Ecocardiograma</a>
-                                                        <a class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/cateterismo') ?>">Cateterismo</a>
+                                                        <a class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/cateterismo') ?>">Cateterismo cardíaco</a>
                                                         <a class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/estudio_electrofisiologico') ?>">Estudio Electrofisiológico</a>
                                                         <a class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/resonancia_magnetica') ?>">Resonancia Magnética</a>
                                                         <a class="dropdown-item" href="<?= base_url('Dashboard/viewpruebasdiag/resonancia_nuclear') ?>">Resonancia Nuclear</a>

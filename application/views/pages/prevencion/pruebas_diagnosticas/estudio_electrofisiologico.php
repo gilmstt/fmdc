@@ -30,14 +30,9 @@
                         </p>
                         
                         <p>
-                            <br>Es un procedimiento invasivo en el cual se estudia el sistema eléctrico del corazón, por medio de cables especiales llamados catéteres. El Estudio Electrofisiológico es realizado por un Cardiólogo Electrofisiólogo en una sala especial. Con previa anestesia, se introducen catéteres (cables finos, largos y flexibles) se dirigen al corazón por medio de rayos X y registrar de forma permanente la actividad eléctrica del corazón desde su interior, definir el tipo de arritmia y dónde se localiza. A veces es necesario suministrar algún fármaco durante la prueba para precisar el diagnóstico de la arritmia. En otras ocasiones se requerirá aplicar una descarga eléctrica. Para ello se anestesia al paciente.
-                            <br><br>La duración aproximada del procedimiento es de 2 horas, aunque por la dificultad de algunos casos ésta puede llegar a ser considerablemente superior. Los pacientes normalmente pueden irse a casa al día siguiente de un estudio electrofisiológico si no hay complicaciones ni otros motivos para seguir ingresado en el hospital.
+                            <br>Al igual que el cateterismo cardíaco, el estudio electrofisiológico es un procedimiento invasivo en el cual se introducen catéteres finos (cables) por el sistema vascular y se dirigen por medio de fluoroscopía (imágenes por rayox X en vivo) hacia el corazón. En este procedimiento se realiza es un estudio completo del sistema eléctrico del corazón desde su interior, para así poder identificar con precisión el tipo de arritmia y en dónde se origina. En algunas ocasiones es necesaria la administración de de fármacos e incluso la administración de descargas eléctricas dirigidas.  Para ello se anestesia al paciente durante todo el procedimiento. La ablación por Radiofrecuencia es un método usado para el tratamiento de arritmias cardíacas identificadas por este estudio, es un tipo de energía que se aplica internamente a través de un catéter especial. Este tipo de energía se aplica en las zonas donde se producen las arritmias cardíacas interrumpiéndolas e impidiendo que aparezcan de nuevo.  
 
-                            <br><br>La Ablación por Radiofrecuencia es un método usado para el tratamiento de arritmias cardíacas, es un tipo de energía que se aplica internamente a través de un catéter especial. Este tipo de energía se aplica en las zonas donde se producen las arritmias cardíacas interrumpiéndolas o impidiendo su formación.
-
-<h1><br>Referencias:</h1>
-
-<br>Segura  Saint-Gerons JM,  Mazuelos  Bellido F,  Anguita  Sánchez M,  Suárez  de Lezo Cruz-Conde J. Indicaciones de estudio electrofi siológico cardiaco. Medici-ne. 2009; 10(38):2582-3.
+                            <br><br>El tiempo de recuperación de este estudio es varible, en algunas ocasiones es posible recibir el alta a las 24 horas de realizado el procedimiento, sin embargo ello depende de factores que son evaluados por los médicos tratantes. Al ser un estudio invasivo y muy especializado, requiere valoración y seguimiento por un médico cardiólogo especialista en electrofisiología.
 
                         </p>
                         

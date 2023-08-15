@@ -30,12 +30,14 @@
                         </p>
                         
                         <p>
-                            <br>¿Qué es?
-<br>La prueba de esfuerzo en banda o en bicicleta ergométrica es un estudio que tiene amplias aplicaciones. Puede utilizarse como parte del proceso de estudio de enfermedad arterial coronaria, diversas arritmias, en la valoración funcional del paciente con enfermedades cardiacas y en la prescripción del ejercicio necesario en estos pacientes.
-<br>Es una prueba segura, ya que durante todo el procedimiento el paciente se encuentra estrechamente vigilado y su electrocardiograma se registra continuamente.
-<br>Es importante que el paciente y su familiar reciban de manera clara las instrucciones previas a la realización del la prueba, tales como no haber ingerido alimento usualmente 8 hrs antes de la misma o la prescripción o suspensión de medicamentos.
-<br>En algunas situaciones no es recomendable hacer la prueba, como por ejemplo en presencia de presión alta descompensada, infecciones de diversa índole o fatiga. Informe a su médico si el paciente se encuentra en alguna circunstancia como éstas.
-                            <br><img src="<?=base_url("assets/img/prevencion/esfuerzo.png")?>">
+                            <br>Este estudio consiste en la vigilancia de la actividad del corazón a través de la electrocardiografía continua, cuando se somete a una persona a un esfuerzo físico como lo puede ser en una banda de caminadora o en una bicicleta ergométrica. 
+
+                            <br><br>Este estudio puede utilizarse como parte del proceso de estudio de la enfermedad coronaria crónica, en el estudio de algunas arritmias cardíacas, en la valoración funcional del paciente con enfermedades cardiacas, entre otras.
+
+                            <br><br>Se trata de una prueba segura ya que, durante todo el proceso, el paciente se encuentra monitorizado a través de la toma de signos vitales y electrocardiografía de forma constante. Es importante que el paciente y su familiar reciban de manera clara las instrucciones previas a la realización de la prueba, tales como no haber ingerido alimento usualmente 8 horas antes o la suspensión de algunos medicamentos que pudieran influir en el resultado de la prueba.
+
+                            <br><br>Existen algunas situaciones en las que no es recomendable que se haga la prueba, las cuales son valoradas por el médico encargado de la realización de la misma previa a su inicio. Siga las recomendaciones de su médico. 
+
 
                         </p>
                         

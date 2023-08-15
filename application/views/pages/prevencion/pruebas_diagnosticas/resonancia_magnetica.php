@@ -7,7 +7,7 @@
             <div class="col-xl-8 offset-xl-2">
                 <div class="page-title-wrapper text-center pt-125">
                     <div class="page-title-box">
-                        <h2 class="page-title">Resonancia Magnética</h2>
+                        <h2 class="page-title">Resonancia magnética </h2>
                     </div>
                 </div>
             </div>
@@ -22,7 +22,7 @@
             <div class="col-xl-12 col-lg-12 col-md-12">
                 <div class="get-touch-area pl-50 pr-50">
                     <div class="section-title text-left mb-30 wow fadeInUp2 animated" data-wow-delay='.1s'>
-                        <h6><span><i class="fas fa-heart"></i></span>Resonancia Magnética</h6>
+                        <h6><span><i class="fas fa-heart"></i></span>Resonancia magnética </h6>
                     </div>
                     <div class="row " style="text-align: justify;">
                         <p>
@@ -30,17 +30,13 @@
                         </p>
                         
                         <p>
-                            <br>Las  Imágenes por  Resonancia  Magnética (IRM)  se  obtienen al  someter  al paciente a un poderoso  campo electromagnético que atrae a los protones de los átomos de hidrógeno que forman parte de las moléculas de agua abundante en nuestro   organismo,   los  cuales,   al   ser  estimulados   por   las  ondas   de radiofrecuencia   salen  de   su   alineamiento   normal.  Cuando   el   estímulo  se suspende,   los   protones  regresan   a   su  posición   inicial,   liberando  energía receptada  por  las antenas  y  posteriormente  procesada por  una  computadora, esto permite obtener las imágenes.
+                            <br>La resonancia magnética es un estudio de imagen que se realiza al someter al paciente a un campo electromagnético. Dicho campo electromagnético genera cambios registrables en los átomos que conforman nuestro cuerpo. Dichos cambios son captados el equipo de resonancia magnética y son procesados en una computadora formando imágenes de nuestro cuerpo.  Al tratarse de imágenes obtenidas a través de un campo electromagnético, no utilizan radiación como aquellas imágenes obtenidas por rayos X como las radiografías o las tomografías. 
 
-                            <br><br>La resonancia magnética no utiliza radiación ionizante y hasta la fecha no existe evidencia  científica de  efectos  secundarios significativos  en  el cuerpo  humano causados por los campos magnéticos ni los pulsos de radio-frecuencia.
+                            <br><br>La toma de este estudio consiste en colocar al paciente acostado sobre una plataforma deslizante. Dicha plataforma introduce de forma progresiva al paciente a un equipo en forma de dona en donde se produce el campo electromagnético y donde se obtienen los impulsos que son transformados en imágenes. A diferencia de la tomografía, la resonancia magnética es un estudio de imagen de duración prolongada. Algunos estudios de resonancia magnética pueden tomar hasta 1 hora o más para realizarse. 
 
-                            <br><br>Es similar a la tomografía axial computada; el paciente se coloca en una plataforma deslizante, que lo introduce en un dispositivo en forma circular tipo “dona” en el cual está el poderoso electroimán. Se necesita ayuno para realiza esta prueba. Esta prueba no causa dolor. En ocasiones se utiliza contraste intravenoso para poder visualizar ciertas lesiones.
+                            <br><br>Es un estudio que no genera dolor o molestia alguna, sin embargo, produce mucho ruido durante su realización y tiene una duración prolongada, por lo que en personas con ansiedad o claustrofobia puede generar malestar durante su realización. Está contraindicado este tipo de estudio en personas con prótesis o equipos metálicos dentro de su cuerpo debido a que el campo electromagnético se comporta como un poderoso imán y atrae dichos equipos a la estructura en forma de dona.  
 
-                            <h1 style="width: 100%"><br>Referencias:</h1>
-
-                            <br>Stark, D. David, Bradley, William. G. Resonancia Magnética. 3era Edición. Ed. Harcourt, Madrid Barcelona. 2007.
-
-                            <br>Moller,  Reif. Resonancia  Magnética  Manual de  protocolos.  2da Edición.  Ed. Médica Panamericana, México. 2007.
+                            <br><br>En el caso específico de la resonancia magnética cardíaca, es un estudio que permite la toma de imágenes de alta resolución del tejido cardíaco y permite la medición certera de diferentes parámetros funcionales; por lo que se utiliza para evaluar la función del corazón.
 
                         </p>
                         
