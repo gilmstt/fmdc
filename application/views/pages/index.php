@@ -332,7 +332,7 @@
       <div class="container-fluid pl-55 pr-55">
          <div class="row no-gutters ">
             <div class="col-xl-6 col-lg-12 col-md-12">
-               <div class="events-video-area pos-rel mb-30" style="background-image: url(assets/img/events/EncuentroJulio.jpg)">
+               <div class="events-video-area pos-rel mb-30" style="background-image: url(assets/img/events/EncuentroAgosto.jpg)">
                </div>
             </div>
             <div class="col-xl-6 col-lg-12 col-md-12 pr-70">
@@ -343,13 +343,13 @@
                         <li>
                            <div class="events__content">
                               <span><i class="far fa-calendar-alt"></i> 29 julio 2023</span>
-                              <h3 class="mb-15"><a href="https://us02web.zoom.us/j/82262226720?pwd=S283Y2FLclk3ZGlYaGVlU3NkTFpsZz09">Ver evento en zoom</a></h3>
+                              <h3 class="mb-15"><a href="https://us02web.zoom.us/j/85399375055?pwd=Y1ZwaDJDbjg1dDlFRExrTzNKMzZGdz09" target="_blank">Ver evento en zoom</a></h3>
                               <p></p>
                            </div>
                         </li>
                         <li>
                            <div class="events__btn text-md-center text-xl-right">
-                              <a class="theme_btn theme_btn_bg" href="https://us02web.zoom.us/j/82262226720?pwd=S283Y2FLclk3ZGlYaGVlU3NkTFpsZz09" target="_blank">Ver evento <span><i class="fas fa-heart"></i></span></a>
+                              <a class="theme_btn theme_btn_bg" href="https://us02web.zoom.us/j/85399375055?pwd=Y1ZwaDJDbjg1dDlFRExrTzNKMzZGdz09" target="_blank">Ver evento <span><i class="fas fa-heart"></i></span></a>
                            </div>
                         </li>
                      </ul>
