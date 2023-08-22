@@ -4,12 +4,16 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Fundación Mexican del Corazón</title>
-    <meta name="description" content="">
+    <title>Fundación Mexicana del Corazón</title>
+    <meta name="description" content=" La Fundación Mexicana del Corazón ofrece la difusión de temas relacionados a la salud cardiovascular por medio de múltiples exposiciones artísticas y participaciones de expertos en diversos medios electrónicos e impresos como periódicos, revistas, radio y televisión nacional e internacional.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="fundación mexicana del corazón, cardiopatia, cardiopatia hipertensiva, anatomia del corazon, funciones del corazón, soplo, corazón, sentimientos, Cardiopatia congénita, Embarazo , corazon, Disautonomía, Sedentarismo, Diabetes, hipertensión, Enfermedades del corazón">
 
     <link rel="manifest" href="site.webmanifest">
+    <link rel="canonical" href="https://fundacionmexicanadelcorazon.org/">
     <link rel="shortcut icon" type="image/x-icon" href="<?= base_url('assets/img/favicon.ico') ?>">
+    <link rel="author" href="https://fundacionmexicanadelcorazon.org/" >
+    <link rel="publisher" href="https://fundacionmexicanadelcorazon.org/" >
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
