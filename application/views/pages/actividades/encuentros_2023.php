@@ -24,10 +24,14 @@
             </div>
          </div>
          <div class="col-md-6  mb-10">
+            <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/211480468277702" data-width="500" data-show-text="true">
+               <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/fundacionmexicanadelcorazon/videos/211480468277702"><a href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/211480468277702">Encuentro con pacientes FMC</a>
+               </div>
+         </div>
+         <div class="col-md-6  mb-10">
             <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/785004950042786" data-width="500" data-show-text="true">
                <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/fundacionmexicanadelcorazon/videos/785004950042786"><a href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/785004950042786">Encuentro con pacientes FMC</a>
-               <p>prueba de posteo</p>
-            </div>
+               </div>
          </div>
          <div class="col-md-6  mb-10">
             <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/105041999308164/" data-width="500" data-show-text="true">
