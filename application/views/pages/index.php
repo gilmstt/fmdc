@@ -332,12 +332,12 @@
       <div class="container-fluid pl-55 pr-55">
          <div class="row no-gutters ">
             <div class="col-xl-6 col-lg-12 col-md-12">
-               <div class="events-video-area pos-rel mb-30" style="background-image: url(assets/img/events/EncuentroAgosto.jpg)">
+               <div class="events-video-area pos-rel mb-30" style="background-image: url(assets/img/events/FeriaCardiovascular.jpg)">
                </div>
             </div>
             <div class="col-xl-6 col-lg-12 col-md-12 pr-70">
                <div class="events-wrapper grey-bg2 mb-30">
-                  <div class="events active pos-rel wow fadeInUp2 animated" data-wow-delay='.3s'>
+                 <!-- <div class="events active pos-rel wow fadeInUp2 animated" data-wow-delay='.3s'>
                      <div class="events__back" style="background-image: url(assets/img/events/drjesus.png);"></div>
                      <ul class="events__list__one align-items-center justify-content-between pl-50 pr-50">
                         <li>
@@ -353,7 +353,7 @@
                            </div>
                         </li>
                      </ul>
-                  </div>
+                  </div>-->
                   <!-- <div class="events pos-rel wow fadeInUp2 animated" data-wow-delay='.5s'>
                      <div class="events__back" style="background-image: url(assets/img/slider/omron.png);"></div>
                      <ul class="events__list__one align-items-center justify-content-between pl-50 pr-50">

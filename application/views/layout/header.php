@@ -8,6 +8,19 @@
     <meta name="description" content=" La Fundación Mexicana del Corazón ofrece la difusión de temas relacionados a la salud cardiovascular por medio de múltiples exposiciones artísticas y participaciones de expertos en diversos medios electrónicos e impresos como periódicos, revistas, radio y televisión nacional e internacional.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="fundación mexicana del corazón, cardiopatia, cardiopatia hipertensiva, anatomia del corazon, funciones del corazón, soplo, corazón, sentimientos, Cardiopatia congénita, Embarazo , corazon, Disautonomía, Sedentarismo, Diabetes, hipertensión, Enfermedades del corazón">
+    <meta name="twitter:image" content="http://localhost/fmdc/assets/img/logo.png">
+    <meta name="twitter:description" content="La Fundación Mexicana del Corazón ofrece la difusión de temas relacionados a la salud cardiovascular por medio de múltiples exposiciones artísticas y participaciones de expertos en diversos medios electrónicos e impresos como periódicos, revistas, radio y televisión nacional e internacional.">
+	<meta name="twitter:title" content="Fundación Mexicana del Corazón">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="Fundación Mexicana del Corazón">
+    <meta name="twitter:creator" content="Fundación Mexicana del Corazón">
+    <meta name="og:title" content="Fundación Mexicana del Corazón">
+    <meta name="og:type" content="article">
+	<meta name="og:image" content="http://localhost/fmdc/assets/img/logo.png">
+	<meta name="og:url" content="https://fundacionmexicanadelcorazon.org">
+	<meta name="og:site_name" content="Fundación Mexicana del Corazón">
+	<meta name="og:description" content="La Fundación Mexicana del Corazón ofrece la difusión de temas relacionados a la salud cardiovascular por medio de múltiples exposiciones artísticas y participaciones de expertos en diversos medios electrónicos e impresos como periódicos, revistas, radio y televisión nacional e internacional.">
+	<meta name="author" content="Administrator">
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="canonical" href="https://fundacionmexicanadelcorazon.org/">
