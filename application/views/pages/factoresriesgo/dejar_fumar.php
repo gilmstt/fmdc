@@ -25,26 +25,27 @@
                         <h6><span><i class="fas fa-heart"></i></span>Dejar de Fumar</h6>
                     </div>
                     <div class="row " style="text-align: justify;">
-                        <p>
-                            Escrito por el Dr. Alejandro López Leija. Medicina Interna.
-                        </p>
-                        
-                        <p>
-                            <br>El tabaco es la primera causa de cáncer y muerte por cáncer en el mundo, eleva el riesgo múltiples veces de cáncer y enfermedad cardiovascular.
+                        <div class="col-xl-12 col-lg-12 col-md-12">
+                            <p>
+                                Escrito por el Dr. Alejandro López Leija. Medicina Interna.
+                            </p>
+                            
+                            <p>
+                                <br>El tabaco es la primera causa de cáncer y muerte por cáncer en el mundo, eleva el riesgo múltiples veces de cáncer y enfermedad cardiovascular.
 
-                            <br>Algunos cánceres son: cáncer de pulmón, de laringe, de boca, esófago, garganta, vejiga, riñón, hígado, estómago, páncreas, colon y recto, y cérvix o cuello uterino, así como leucemia mieloide aguda.
+                                <br>Algunos cánceres son: cáncer de pulmón, de laringe, de boca, esófago, garganta, vejiga, riñón, hígado, estómago, páncreas, colon y recto, y cérvix o cuello uterino, así como leucemia mieloide aguda.
 
-                            <br><br>El simple hecho de dejar de fumar, disminuye tu riesgo de estos cánceres de manera impresionante. Te invitamos a que lo dejes de inmediato, aún estas a tiempo. Si necesitas apoyo para dejarlo acude a tu centro de salud más cercano para recibir ayuda tanto moral como farmacológica de ser necesaria.
+                                <br><br>El simple hecho de dejar de fumar, disminuye tu riesgo de estos cánceres de manera impresionante. Te invitamos a que lo dejes de inmediato, aún estas a tiempo. Si necesitas apoyo para dejarlo acude a tu centro de salud más cercano para recibir ayuda tanto moral como farmacológica de ser necesaria.
 
-                            <br>Cuídate. Salva tu vida.
+                                <br>Cuídate. Salva tu vida.
 
-                            <h1 style="width: 100%"><br>Referencias:</h1>
-                                
-                            <br>CDC – Centros para el control y la prevención de enfermedades.
-                            <br><img src="<?=base_url("assets/img/prevencion/fumar.jpg")?>">
+                                <h1 style="width: 100%"><br>Referencias:</h1>
+                                    
+                                <br>CDC – Centros para el control y la prevención de enfermedades.
+                                <br><img src="<?=base_url("assets/img/prevencion/fumar.jpg")?>">
 
-                        </p>
-                        
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

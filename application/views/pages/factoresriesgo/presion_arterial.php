@@ -25,22 +25,24 @@
                         <h6><span><i class="fas fa-heart"></i></span>Presión Arterial</h6>
                     </div>
                     <div class="row " style="text-align: justify;">
-                        <p>
-                            Escrito por el Dr. Alejandro López Leija. Medicina Interna.
-                        </p>
-                        
-                        <p>
-                            <br> Nuestro sistema cardiovascular esta conformado por: corazón, venas y arterias.
-                            <br>Dentro de las arterias existe una presión la cual es necesaria para asegurar una adecuada circulación de la sangre y así llevar oxígeno a todos lo órganos de nuestro cuerpo. Recuerda que esa es la principal función de nuestro sistema cardiovascular.
+                        <div class="col-xl-12 col-lg-12 col-md-12">
+                            <p>
+                                Escrito por el Dr. Alejandro López Leija. Medicina Interna.
+                            </p>
+                            
+                            <p>
+                                <br> Nuestro sistema cardiovascular esta conformado por: corazón, venas y arterias.
+                                <br>Dentro de las arterias existe una presión la cual es necesaria para asegurar una adecuada circulación de la sangre y así llevar oxígeno a todos lo órganos de nuestro cuerpo. Recuerda que esa es la principal función de nuestro sistema cardiovascular.
 
-                            <br><br>La presión arterial se compone por una presión sistólica (la cual es la que lleva la sangre desde el corazón hacia nuestros órganos) y una presión diastólica (la cual lleva la sangre desde nuestros órganos de regreso hacia nuestro corazón).
+                                <br><br>La presión arterial se compone por una presión sistólica (la cual es la que lleva la sangre desde el corazón hacia nuestros órganos) y una presión diastólica (la cual lleva la sangre desde nuestros órganos de regreso hacia nuestro corazón).
 
-                            <br><br>La presión arterial se representa así: 120 (sistólica) / 80 (diastólica). Los valores normales de la presión arterial es tener una presión arterial MENOR a 120/80mmHg. Una presión arterial alta se define como una presión arterial MAYOR o IGUAL a 140/90 mmHg. El tener una presión arterial elevada aumenta nuestro riesgo de padecer enfermedades cardiovasculares como infarto al corazón, infarto cerebral (embolia cerebral), enfermedad arterial coronaria, arritmias cardiacas y también enfermedad renal.
+                                <br><br>La presión arterial se representa así: 120 (sistólica) / 80 (diastólica). Los valores normales de la presión arterial es tener una presión arterial MENOR a 120/80mmHg. Una presión arterial alta se define como una presión arterial MAYOR o IGUAL a 140/90 mmHg. El tener una presión arterial elevada aumenta nuestro riesgo de padecer enfermedades cardiovasculares como infarto al corazón, infarto cerebral (embolia cerebral), enfermedad arterial coronaria, arritmias cardiacas y también enfermedad renal.
 
-                            <br><br>La manera correcta de medir la presión arterial es por medio de un baumanómetro (aparato para medir la presión arterial), con un reposo antes de la toma de presión de al menos 30 minutos. Durante la toma de presión se debe estar sentado, con ambos pies en el suelo, la espalda recta y el brazo a la altura del corazón. Se debe medir la presión arterial en ambos brazos, el que tenga la medida más alta es el brazo que se debe utilizar para medir la presión arterial en futuras ocasiones.
+                                <br><br>La manera correcta de medir la presión arterial es por medio de un baumanómetro (aparato para medir la presión arterial), con un reposo antes de la toma de presión de al menos 30 minutos. Durante la toma de presión se debe estar sentado, con ambos pies en el suelo, la espalda recta y el brazo a la altura del corazón. Se debe medir la presión arterial en ambos brazos, el que tenga la medida más alta es el brazo que se debe utilizar para medir la presión arterial en futuras ocasiones.
 
-                            <br><br>Por un Corazón Sano.
-                        </p>
+                                <br><br>Por un Corazón Sano.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

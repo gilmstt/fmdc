@@ -189,7 +189,7 @@
                         <h1><br>Referencias:</h1>
                         <p class="sangria">
                            <br>1. UpToDate (2019) Patient Education (The Basics)Fecha de revision 08/08/2019 Visto en:
-                           https://www.uptodate.com/contents/pulmonary-hypertension-the-basics?search=pulmonary%20hypertension%20basics&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2
+                           <a  href= "https://www.uptodate.com/contents/pulmonary-hypertension-the-basics?search=pulmonary%20hypertension%20basics&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2" target="_blank";><u style="color: #FF0000;">https://www.uptodate.com/contents/pulmonary-hypertension-the-basics</u></a>
                            <br>2. Thenappan, T., Ormiston, M. L., Ryan, J. J., & Archer, S. L. (2018). Pulmonary
                            arterial hypertension: pathogenesis and clinical management. BMJ.
                            <br>3. Kiely, D. G., Elliot, C. A., Sabroe, I., & Condliffe, R. (2013). Pulmonary

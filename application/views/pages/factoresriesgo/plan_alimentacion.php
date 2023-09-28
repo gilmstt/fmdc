@@ -25,20 +25,21 @@
                         <h6><span><i class="fas fa-heart"></i></span>Diseño de un Plan de Alimentación</h6>
                     </div>
                     <div class="row " style="text-align: justify;">
-                        <p>
-                            Escrito por el Dr. Alejandro López Leija. Medicina Interna.
-                        </p>
-                        
-                        <p>
-                            <br>Diseño de un Plan de Alimentación
+                        <div class="col-xl-12 col-lg-12 col-md-12">
+                            <p>
+                                Escrito por el Dr. Alejandro López Leija. Medicina Interna.
+                            </p>
+                            
+                            <p>
+                                <br>Diseño de un Plan de Alimentación
 
-                            <br><br>Lo ideal es acudir con un experto en nutrición, es decir, un nutriólogo, para que realice el cálculo de las kilocalorías que tu cuerpo necesita al día para su correcto funcionamiento sin que estos requerimientos sean sobrepasados y generen acúmulo o almacenamiento de los alimentos en tu organismo y que esto se refleje con aumento de peso y de grasa corporal.
+                                <br><br>Lo ideal es acudir con un experto en nutrición, es decir, un nutriólogo, para que realice el cálculo de las kilocalorías que tu cuerpo necesita al día para su correcto funcionamiento sin que estos requerimientos sean sobrepasados y generen acúmulo o almacenamiento de los alimentos en tu organismo y que esto se refleje con aumento de peso y de grasa corporal.
 
-                            <h1><br>Ejemplo de dieta:</h1>
-                            <br>
-                            <img src="<?=base_url("assets/img/prevencion/comida.jpg")?>">
-                        </p>
-                        
+                                <h1><br>Ejemplo de dieta:</h1>
+                                <br>
+                                <img src="<?=base_url("assets/img/prevencion/comida.jpg")?>">
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

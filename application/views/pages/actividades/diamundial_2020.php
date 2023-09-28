@@ -22,7 +22,7 @@
         </section>
 <section class="blog-area pt-130 pb-70">
    <div class="container">
-      <div class="row">
+      <div class="row" style="text-align: justify;">
          <div class="col-md-12 links">
             <div class="section-title-2 text-left mb-20 wow fadeInUp2  animated" data-wow-delay=".1s">
                <h6><span><i class=" "></i></span> DÍA MUNDIAL DEL CORAZÓN</h6>

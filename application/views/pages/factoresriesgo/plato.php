@@ -25,21 +25,22 @@
                         <h6><span><i class="fas fa-heart"></i></span>Plato del Buen Comer</h6>
                     </div>
                     <div class="row " style="text-align: justify;">
-                        <p>
-                            Escrito por el Dr. Alejandro López Leija. Medicina Interna.
-                        </p>
-                        
-                        <p>
-                            <br>La alimentación correcta está representada gráficamente en el Plato del buen Comer, que muestra los tres grupos de alimentos que deben estar presentes en las tres comidas principales del día.
+                        <div class="col-xl-12 col-lg-12 col-md-12">
+                            <p>
+                                Escrito por el Dr. Alejandro López Leija. Medicina Interna.
+                            </p>
+                            
+                            <p>
+                                <br>La alimentación correcta está representada gráficamente en el Plato del buen Comer, que muestra los tres grupos de alimentos que deben estar presentes en las tres comidas principales del día.
 
-                            <br><br>Es una herramienta visual para cada persona, la cual consta de una fácil interpretación de las proporciones que debe de tener cada plato de alimentación.
+                                <br><br>Es una herramienta visual para cada persona, la cual consta de una fácil interpretación de las proporciones que debe de tener cada plato de alimentación.
 
-                            <br><br>Cabe mencionar que este plato y sus proporciones tienden a cambiar según sea los requerimientos de cada persona, y aún más importante, si tienen alguna enfermedad como, por ejemplo, si una persona padece hipertensión, el consumo de sal y alimentos ricos en sal, deben se consumirse menos.
-                            <br><br>Nutriología Médica – Esther Casanueva 3ra Ed.
-                            <br>
-                            <img src="<?=base_url("assets/img/prevencion/plato.jpg")?>">
-                        </p>
-                        
+                                <br><br>Cabe mencionar que este plato y sus proporciones tienden a cambiar según sea los requerimientos de cada persona, y aún más importante, si tienen alguna enfermedad como, por ejemplo, si una persona padece hipertensión, el consumo de sal y alimentos ricos en sal, deben se consumirse menos.
+                                <br><br>Nutriología Médica – Esther Casanueva 3ra Ed.
+                                <br>
+                                <img src="<?=base_url("assets/img/prevencion/plato.jpg")?>">
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>

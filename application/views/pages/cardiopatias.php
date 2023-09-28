@@ -236,19 +236,12 @@
                            factores asociados a la letalidad en niños nacidos en dos hospitales del Estado de México.
                            Gaceta Médica de México; 149:617-23.
                            <br>2. Cardiopatías Congénitas visto en: Fundación Española del Corazón. Fecha de última
-                           consulta: 27/07/2019 <a
-                              href="https://fundaciondelcorazon.com/informacion-para-pacientes/enfermedades-cardiovasculares/cardiopatias-congenitas.html"
-                              target="_blank">URL:https://fundaciondelcorazon.com/informacion-para-pacientes/enfermedades-cardiovasculares/cardiopatias-congenitas.html</a>
-
+                           consulta: 27/07/2019
+                           <a style="color: red !important" href="https://fundaciondelcorazon.com/informacion-para-pacientes/enfermedades-cardiovasculares/cardiopatias-congenitas.html"  target="_blank"> https://fundaciondelcorazon.com/</a>
                            <br>3. About Congenital Heart Defects visto en:American Heart Association. Fecha de última
-                           consulta: 29/07/2019.<a
-                              href="https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects"
-                              target="_blank">
-                              URL:https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects</a>
-
-
+                           consulta: 29/07/2019.
+                           <a style="color: red !important" href="https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects"  target="_blank"> https://www.heart.org</a>
                         </p>
-
                      </div>
                   </div>
                </div>

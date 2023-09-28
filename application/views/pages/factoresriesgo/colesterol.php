@@ -25,6 +25,7 @@
                         <h6><span><i class="fas fa-heart"></i></span>Colesterol</h6>
                     </div>
                     <div class="row " style="text-align: justify;">
+                    <div class="col-xl-12 col-lg-12 col-md-12">
                         <p>
                             Escrito por el Dr. Alejandro López Leija. Medicina Interna.
                         </p>
@@ -88,7 +89,7 @@ Como se ha dicho anteriormente, existe un complejo mecanismo de transporte de co
 <br>Referencias:
 </h1>
 <p>
-• Huff T, Jialal I. Physiology, Cholesterol. [Updated 2019 Mar 13]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK470561/
+• Huff T, Jialal I. Physiology, Cholesterol. [Updated 2019 Mar 13]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-. Available from: <a style="color: red !important" href=" https://www.ncbi.nlm.nih.gov/books/NBK470561/"  target="_blank">  https://www.ncbi.nlm.nih.gov/books/NBK470561/</a> 
 <br>• Rosenson, Freeman (2019) Lipoprotein clasification, metabolism androle in aheroesclerosis. UpToDate.
 <br>• Blesso, C. N., & Fernandez, M. L. (2018). Dietary Cholesterol, Serum Lipids, and Heart Disease: Are Eggs Working for or Against You?. Nutrients, 10(4), 426. doi:10.3390/nu10040426
 <br>• Guía de Práctica Clínica. Detección y estratificación de factores de riesgo cardiovascular. Evidencias y recomendaciones. CENETEC
@@ -96,6 +97,7 @@ Como se ha dicho anteriormente, existe un complejo mecanismo de transporte de co
 <br>• Elshourbagy, N. A., Meyers, H. V., & Abdel-Meguid, S. S. (2014). Cholesterol: the good, the bad, and the ugly – therapeutic targets for the treatment of dyslipidemia. Medical principles and practice: international journal of the Kuwait University, Health Science Centre, 23(2), 99–111. doi:10.1159/000356856
 
 </p>
+</div>
                     </div>
                 </div>
             </div>

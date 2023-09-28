@@ -13,14 +13,13 @@
             </div>
         </div>
     </section>
-    <div class="entry-content">
-        <div class="container" style="width: 80%; padding-top: 30px; padding-bottom: 30px;">
-            <main id="main" class="site-main" role="main">
-                <article id="post-999" class="post-999 page type-page status-publish hentry no-thumb">
-
-
-                    <div class="entry-content">
-                        <div class="container" style="width: 80%; padding-top: 30px; padding-bottom: 30px;">
+    <section class="contacts-details-area pt-130 pb-100">
+      <div class="container">
+         <div class="row align-items-center">
+            <div class="col-xl-12 col-lg-12 col-md-12">
+               <div class="get-touch-area pl-50 pr-50">
+                  <div class="row " style="text-align: justify;">
+                     <div class="col-xl-12 col-lg-12 col-md-12">
                             <h3>
                                 Marcapasos
                             </h3>
@@ -96,18 +95,15 @@
 
                                 Referencias:
                             </h3>
-                            <p>• Puette JA, Ellison MB. Pacemaker. [Updated 2019 Mar 3]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-.Available from: https://www.ncbi.nlm.nih.gov/books/NBK526001/<br />
-                                • Dalia T, Amr BS. Pacemaker Indications. [Updated 2019 Jun 16]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK507823/<br />
+                            <p>• Puette JA, Ellison MB. Pacemaker. [Updated 2019 Mar 3]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-.Available from: <a style="color: red !important" href="https://www.ncbi.nlm.nih.gov/books/NBK526001/"  target="_blank"> https://www.ncbi.nlm.nih.gov/books/NBK526001/</a><br/>
+                                • Dalia T, Amr BS. Pacemaker Indications. [Updated 2019 Jun 16]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2019 Jan-. Available from: <a style="color: red !important" href=" https://www.ncbi.nlm.nih.gov/books/NBK507823/"  target="_blank">  https://www.ncbi.nlm.nih.gov/books/NBK507823/</a><br/>
                                 • Kotsakou, M., Kioumis, I., Lazaridis, G., Pitsiou, G., Lampaki, S., Papaiwannou, A., … Zarogoulidis, P. (2015). Pacemaker insertion. Annals of translational medicine, 3(3), 42. doi:10.3978/j.issn.2305-5839.2015.02.06<br />
                                 • Bilitch, M., Lau, F. K., &amp; Cosby, R. S. (1967). Recent advances in artificial pacemakers. California medicine, 107(2), 164-170.</p>
                         </div>
-                    </div><!-- .entry-content -->
-
-                    <!-- <footer class="entry-footer">
-			</footer> --><!-- .entry-footer -->
-
-                </article><!-- #post-## -->
-            </main><!-- #main -->
-        </div>
-    </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
 </main> <!--footer-area start-->
