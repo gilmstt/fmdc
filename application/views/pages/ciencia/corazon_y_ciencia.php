@@ -13,13 +13,16 @@
         </div>
     </section>
 
-    <article id="post-1724" class="post-1724 page type-page status-publish hentry no-thumb">
-        <div class="entry-content" style="margin-top: 2rem;">
-            <div class="container" >
-                <div class="row " style="text-align: justify;">
-                    <div class="col-xl-12 col-lg-12 col-md-12">
-                        <h3><b>ARTÍCULOS DE INVESTICACIÓN</b></h3> <br>
-
+    <section class="contacts-details-area pt-130 pb-100">
+      <div class="container">
+         <div class="row align-items-center">
+            <div class="col-xl-12 col-lg-12 col-md-12">
+            <div class="get-touch-area pl-50 pr-50">
+                  <div class="section-title text-left mb-30 wow fadeInUp2 animated" data-wow-delay='.1s'>
+                     <h6><span><i class="fas fa-heart"></i></span>ARTÍCULOS DE INVESTICACIÓN</h6>
+                  </div>
+                     <div class="col-xl-12 col-lg-12 col-md-12">
+                        
                         <h6>Desenlaces clínicos de la reparación percutánea de la válvula mitral</h6>
 
                         <p>
@@ -673,10 +676,6 @@
                     </div>
                 </div>                
             </div>
-        </div><!-- .entry-content -->
-
-        <!-- <footer class="entry-footer">
-			</footer> --><!-- .entry-footer -->
-
-    </article><!-- #post-## -->
+        </div>
+    </section>
 </main><!-- #main -->

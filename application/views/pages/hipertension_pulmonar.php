@@ -18,13 +18,12 @@
    <!--join-team-area start-->
    <section class="contacts-details-area pt-130 pb-100">
       <div class="container">
-         <div class="row align-items-center">
+         <div class="row align-items-center" style="text-align: justify">
             <div class="col-xl-12 col-lg-12 col-md-12">
                <div class="get-touch-area pl-50 pr-50">
                   <div class="section-title text-left mb-30 wow fadeInUp2 animated" data-wow-delay='.1s'>
                      <h6><span><i class="fas fa-heart"></i></span>HIPERTENSIÓN PULMONAR</h6>
                   </div>
-                  <div class="row " style="text-align: justify;">
                      <div class="col-xl-12 col-lg-12 col-md-12">
 
                         <p>
@@ -200,7 +199,6 @@
                            Clin Proc. 84(2):191-207.
                         </p>
 
-                     </div>
                   </div>
                </div>
             </div>
