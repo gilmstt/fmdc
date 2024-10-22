@@ -23,9 +23,9 @@
             <div class="section-title-2 text-left mb-20 wow fadeInUp2 animated" data-wow-delay=".1s" >
                <h6><span><i class=" "></i></span>Cardiopatías Congénitas</h6>
             </div>
-            <p class="mb-20">El <b>Centro Médico ABC</b> y la <b style="color:#cd0044">Fundación Mexicana del Corazón</b> nos unimos para apoyarte en el tratamiento de algunas cardiopatías congénitas y mejorar la calidad de vida de quienes la padecen.</p>
-
-            <h4>¿Qué cardiopatías congénitas se pueden tratar a través de este convenio?</h4>
+            <p style= "text-align:justify">La <b>Fundación Mexicana del Corazón</b> se une al Centro Médico ABC para referir pacientes al Programa de Cardiopatías Congénitas Pediátricas que se desarrolla en el Centro Pediátrico del Corazón ABC-Kardias.</p>
+            <br>
+            <h4>¿Qué cardiopatías congénitas se pueden tratar en el Centro Pediátrico del Corazón ABC-Kardias?</h4>
             <ul>
                <li>• Persistenia del conducto arterioso</li>
                <li>• Comunicación interauricular</li>
