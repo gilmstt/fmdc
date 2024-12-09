@@ -122,6 +122,79 @@ class Dashboard extends CI_Controller {
       $this->load->view('pages/ciencia/'.str_replace('-','/',$view));
       $this->load->view('layout/footer');
    }
+   public function viewextra_corazon($view)
+   {
+      $this->load->view('layout/header');
+      $this->load->view('pages/extra_corazon/'.str_replace('-','/',$view));
+      $this->load->view('layout/footer');
+   }
+   public function sedentarismo()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/sedentarismo');
+		$this->load->view('layout/footer');
+	}
+   public function diabetes()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/diabetes');
+		$this->load->view('layout/footer');
+	}
+   public function dislipidemia()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/dislipidemia');
+		$this->load->view('layout/footer');
+	}
+   public function metas_tratamiento()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/metas_tratamiento');
+		$this->load->view('layout/footer');
+	}
+   public function diabetes_tratamiento()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/diabetes_tratamiento');
+		$this->load->view('layout/footer');
+	}
+   public function angina_pecho_2()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/angina_de_pecho');
+		$this->load->view('layout/footer');
+	}
+   public function salud_cardiovascular()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/salud_cardiovascular');
+		$this->load->view('layout/footer');
+	}
+   public function habitos_nutricionales()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/habitos_nutricionales');
+		$this->load->view('layout/footer');
+	}
+   public function actividad_fisica()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/actividad_fisica');
+		$this->load->view('layout/footer');
+	}
+   public function masa_corporal()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/masa_corporal');
+		$this->load->view('layout/footer');
+	}
+
+   public function insuficiencia_cardiaca_sintomas()
+   {
+		$this->load->view('layout/header');
+		$this->load->view('pages/extra_corazon/insuficiencia_cardiaca');
+		$this->load->view('layout/footer');
+	}
 	public function post($id)
    {
       $data['post'] = $this->AbcModel->getPost($id);

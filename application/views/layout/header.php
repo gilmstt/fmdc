@@ -173,7 +173,24 @@
                                             </li>
                                         </ul>
                                     </li>
-                                    <li><a href="<?= base_url('Dashboard/abc_corazon') ?>">ABC del corazón</a>
+                                    <li><a href="<?= base_url('Dashboard/abc_corazon') ?>">ABC del corazón<i class="far fa-chevron-down"></i></a>
+                                        <ul class="submenu">
+                                            <li>
+                                                <div class="dropdown dropright">
+                                                   <a href="<?= base_url('Dashboard/abc_corazon') ?>"  aria-haspopup="true" aria-expanded="false">
+                                                   ABC del corazón
+                                                    </a>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dropdown dropright">
+                                                   <a href="<?= base_url('Dashboard/view/extra_corazon') ?>"  aria-haspopup="true" aria-expanded="false">
+                                                    Un extra de corazón
+                                                    </a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </li>
                                     <li><a href="<?= base_url('Dashboard/view/about') ?>">Nosotros</a></li>
                                     <li><a href="<?= base_url('Dashboard/view/cardiopatias_congenitas') ?>">Cardiopatías Congénitas </a></li>
                                     <li><a href="<?= base_url('Dashboard/view/contact') ?>">Contacto </a></li>
@@ -316,7 +333,25 @@
                         </li>
                     </ul>
                 </li>
-                <li><a href="<?= base_url('Dashboard/abc_corazon') ?>">ABC del corazón</a>
+                <li>
+                    <a>ABC del corazón<i class="far fa-chevron-down"></i></a>
+                    <ul class="submenu">
+                        <li>
+                            <div class="dropdown dropright">
+                                <a href="<?= base_url('Dashboard/abc_corazon') ?>""  aria-haspopup="true" aria-expanded="false">
+                                ABC del corazón
+                                </a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="dropdown dropright">
+                                <a href="<?= base_url('Dashboard/view/extra_corazon') ?>"  aria-haspopup="true" aria-expanded="false">
+                                Un extra de corazón
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
                 <li><a href="<?= base_url('Dashboard/view/about') ?>">Nosotros</a></li>
                 <li><a href="<?= base_url('Dashboard/view/cardiopatias_congenitas') ?>">Cardiopatías Congénitas </a></li>
                 <li><a href="<?= base_url('Dashboard/view/contact') ?>">Contacto </a></li>

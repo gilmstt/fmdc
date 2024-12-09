@@ -2,6 +2,29 @@
    <!--slider-area start-->
    <div class="slider-area pos-rel">
       <div class="slider-active">
+      <div class="single-slider slider-height pos-rel d-flex align-items-center" style="background-image: url(assets/img/testimonial/feria2024.png);">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-8">
+                     <div class="slider__content text-left">
+                        <!--<h5 class="sub-title mb-25 wow fadeInUp2 animated" data-wow-delay=".1s">
+                           <span class="pr-10"><i class="fas fa-heart"></i></span>
+                           Testimonios
+                        </h5>
+                        <h1 class="main-title mb-35 wow fadeInUp2 animated" data-wow-delay=".1s">
+                           Voces del corazón
+                        </h1>
+                        <ul class="btn-list wow fadeInUp2 animated" data-wow-delay=".3s">
+                           <li><a class="theme_btn theme_btn_bg" href="<?= base_url("Dashboard/testimonios/index"); ?>">Ver <span><i class="fas fa-heart"></i></span></a>
+                           </li>-->
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+
+
          <div class="single-slider slider-height pos-rel d-flex align-items-center" style="background-image: url(assets/img/testimonial/testimonio.jpg);">
             <div class="container">
                <div class="row">
@@ -297,8 +320,8 @@
                   <p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
                   <p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
                   <p></p>
-                  <h1><span class="counter">8010</span></h1>
-                  <p>Más de 8000 reproducciones</p>
+                  <h1><span class="counter">11000</span></h1>
+                  <p>Más de 11000 reproducciones</p>
                </div>
             </div>
             <div class="col-xl-1 col-lg-1 col-md-1 col-sm-1 col-1 mb-1">
@@ -318,9 +341,9 @@
                            </g>
                      </svg>
                   </div>
-                  <h1><span class="counter">3000</span></h1>
+                  <h1><span class="counter">7000</span></h1>
                   <p></p>
-                  <p>más de 3000 infografías.</p>
+                  <p>más de 7000 infografías.</p>
                </div>
             </div>
          </div>
@@ -332,7 +355,7 @@
       <div class="container-fluid pl-55 pr-55">
          <div class="row no-gutters ">
             <div class="col-xl-6 col-lg-12 col-md-12">
-               <div class="events-video-area pos-rel mb-30" style="background-image: url(assets/img/events/FeriaCardiovascular.jpg)">
+               <div class="events-video-area pos-rel mb-30" style="background-image: url(assets/img/events/infografia.jpg)">
                </div>
             </div>
             <div class="col-xl-6 col-lg-12 col-md-12 pr-70">

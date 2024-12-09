@@ -43,6 +43,12 @@
                   <blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/fundacionmexicanadelcorazon/videos/570644608236879 "><a href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/570644608236879">Encuentro con Pacientes FMC</a>
             </div>
          </div>
+         <div class="col-md-6 mb-10">
+            <div class="fb-video" data-href="https://www.facebook.com/fundacionmexicanadelcorazon/videos/5832054713536881" data-width="500" data-show-text="true">
+               <blockquote cite="https://es-la.facebook.com/fundacionmexicanadelcorazon/videos/5832054713536881/" class="fb-xfbml-parse-ignore"><a href="https://es-la.facebook.com/fundacionmexicanadelcorazon/videos/5832054713536881/">Encuentro con pacientes FMC</a>
+               </blockquote>
+            </div>
+         </div>
       </div>
    </div>
 </section>
