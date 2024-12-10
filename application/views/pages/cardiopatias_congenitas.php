@@ -46,7 +46,7 @@
             <p>Sí, es un programa nacional</p><br>
 
             <h4>¿Qué tengo que hacer para solicitar ser atendido?</h4>
-            <p>Envía un correo a <a href="">fundacionmexicanadelcorazon@gmail.com</a> explicando tu caso y todos los estudios relacionados a este, para que sean evaluados por especialistas.</p>
+            <p>Envía un correo a <a href="">fundacioncoramexico@gmail.com</a> explicando tu caso y todos los estudios relacionados a este, para que sean evaluados por especialistas.</p>
         </div>
       </div>
    </div>
