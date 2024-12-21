@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
-
+//http://localhost/fmdc/admin/blogs?ci=1qa23#
 class Backoffice extends CI_Controller
 {
    public function __construct()
@@ -35,7 +35,11 @@ class Backoffice extends CI_Controller
    public function blogs()
    {
       //$this->isAunthenticated();
+      $key = $this->input->get('ci');
 
+      if (!isset($key) || $key !== $this->ci) {
+         show_404();
+      }
       $count['returnType'] = 'count';
       $totalRec = $this->Backoffice_m->getRowsBlog($count);
 
