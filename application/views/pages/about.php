@@ -43,7 +43,7 @@
                         <div>
 
                             <p class="mb-35" style="text-align: justify" ;>
-                                La Fundación Mexicana del Corazón ofrece la difusión de temas relacionados a la salud
+                                La Fundación Mexicana del Corazón, desde el año 2004, ofrece la difusión de temas relacionados a la salud
                                 cardiovascular por medio de múltiples exposiciones artísticas y participaciones de expertos
                                 en diversos medios electrónicos e impresos como periódicos, revistas, radio y televisión
                                 nacional e internacional.
